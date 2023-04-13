@@ -1,0 +1,2526 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "user": {
+        "name": "Mr. Glasses",
+        "metadata": [
+          "Shenyang, Liaoning, China",
+          "Shenyang,",
+          "Liaoning,",
+          "China",
+          "42,000\n/yr",
+          "42,000",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/2/607/2607715/yang_hong_636825699682717962_guruImgLarge_2527340c-8eaa-497b-9810-d1a1ae46c99d.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/2/607/2607715/cloud_69509f65-66b7-474b-8fd5-1e506892b838.jpg",
+          "title": "Amazon / DevOps Guru",
+          "description": [
+            "$50/hr   \u00b7   Starting at $50",
+            "Provide the best practice on Amazon. CI/CD, Terraform, CloudFormation. Big Data, GeoDB, Neptune Elastic Beanstalk, Elastic ECR, ECS, Code Pipeline, S3, Face Rekognition, IAM, EC2, Cloud Front, Route 5\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "Amazon",
+            "Amazon AWS",
+            "Amazon MWS",
+            "Angular.js",
+            "AWS Architecture"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Desktop App Development",
+          "description": [
+            "$30/hr   \u00b7   Starting at $500",
+            "Electron is an open-source framework that helps you build amazing desktop apps with web technologies like CSS, HTML, and Javascript. If you think that it is only mobile apps that you can build on hybr\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "App Development",
+            "Cloud Computing",
+            "Embedded Systems",
+            "Programming",
+            "Python"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/2/607/2607715/switcher1_324d66fa-0487-48eb-8551-4ca4133f0f6c.PNG"
+        },
+        {
+          "title": "Backend Development",
+          "description": [
+            "$30/hr   \u00b7   Starting at $100",
+            "Strong service for back end development. Very familiar with almost all back end languages. Php, laravel, codeigniter, yii, cakephp. Node.js, Express, Koa, Strongloop. Python, Django, Flask Amazon Clou\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Amazon AWS",
+            "Architects",
+            "Back End Development",
+            "CakePHP",
+            "Cloud Computing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/2/607/2607715/Presentation%20Switchers%20-%20Cloud%20Control%20-%20Intro_Moment4_f1eb928b-7ef3-4f85-b9b1-1f2b3bc3c948.jpg"
+        },
+        {
+          "title": "Ruby on Rails",
+          "description": [
+            "$30/hr   \u00b7   Starting at $100",
+            "Perfect Rails Applications !\n\nRails is a development tool which gives web developers a framework, providing structure for all the code they write. \nThe Rails framework helps developers to build websit\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "Back End Development",
+            "Docker",
+            "Front End Development",
+            "Gem",
+            "Heroku"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/2/607/2607715/Capture_3779a915-7f8d-425c-8ad1-a89ae234d14e.PNG"
+        },
+        {
+          "title": "Web & Mobile development",
+          "description": [
+            "$30/hr   \u00b7   Starting at $300",
+            "I can make perfect mobile apps and also the web sites. I can also make admin panels for admin, for mobile apps with different Database , with different Sever Side Languages."
+          ],
+          "skills": [
+            "Programming & Development",
+            "Administrative Assistant",
+            "Agile Web Development",
+            "Android",
+            "App Development",
+            "Cloud Computing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/2/607/2607715/1d3543_addb30f3-494b-4e25-91bc-0b0c4014bffd.jpg"
+        },
+        {
+          "title": "Dashboard for IoT devices",
+          "description": [
+            "$30/hr   \u00b7   Starting at $100",
+            "Strong experience in connectivity and control on IoT devices using different cloud services and own hosting servers.\n\nAWS IoT (Amazon internet of things) is an Amazon Web Services platform that collec\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "Amazon",
+            "Amazon AWS",
+            "API Development",
+            "CI/CD",
+            "Cloud Computing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/2/607/2607715/cloud_69509f65-66b7-474b-8fd5-1e506892b838.jpg"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "Cloud Computing",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/2/607/2607715/cloud_69509f65-66b7-474b-8fd5-1e506892b838.jpg"
+        },
+        {
+          "title": "DevOps",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/2/607/2607715/devops-for-aws-continuous-testing-and-monitoring-for-an-iot-smart-city-solution-1_070f9660-4008-48df-ad52-1a0265fcdc09.jpg"
+        },
+        {
+          "title": "ELK stack dev",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/2/607/2607715/architecture_c1ef953f-80e6-4236-bcd5-ff95ab7313af.png"
+        },
+        {
+          "title": "Jenkins & Code Pipeline",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/2/607/2607715/ecr_fcd8b0dd-f2aa-4a70-ab8e-4279741f35fa.png"
+        },
+        {
+          "title": "AWS IoT",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/2/607/2607715/iot%20core%20service_fd3eb4e7-50b0-4fb0-a513-7fae17079a4c.PNG"
+        },
+        {
+          "title": "AWS Certificate",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/2/607/2607715/hds-aws-cda57922b41-b9b8-4f2d-b855-20eb40f1ca1a.jpg"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Dec, 2018",
+            "Earnings in Past 12 Months: $42,000",
+            "All Time Earnings: $59,199",
+            "Employers: 12",
+            "Invoices Paid: 69",
+            "Largest Employer: $42,000"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Veld \u00b7 Jan 09, 2022",
+                "Mr. Glasses came through on this for me, it was a bit of a complex issue involving knowledge of AWS Lambda and API, configuration. I'll use him again for future projects.",
+                "for Help Troubleshoot AWS Serverless App"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Vesselina 1 \u00b7 Mar 15, 2020",
+                "The best guru I have hired. Efficient, gets everything done with great results, and never fails to update me on the work done. 100% recommend!",
+                "for Android App backend tasks"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Vesselina 1 \u00b7 Mar 13, 2020",
+                "Great service! Frequent updates, recommend!",
+                "for Android App backend tasks"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Vesselina 1 \u00b7 Mar 11, 2020",
+                "Great work!",
+                "for Android App backend tasks"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "John 3181 \u00b7 Mar 08, 2020",
+                "Good fast work! Helped me set up Amazon S3 hotlink protection.",
+                "for Configure Amazon AWS to prevent hotlinks"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/2/607/2607715/yang_hong_636825699682717962_guruImgLarge_2527340c-8eaa-497b-9810-d1a1ae46c99d.jpg"
+        ],
+        "abstrac": [
+          "Mr. Glasses",
+          "I am providing the best service for clients. Keeping time and budget firmly ! With the highest quality of code ! My goal is the satisfaction of clients!"
+        ],
+        "bio": [
+          "Senior Web & Mobile developer.\nDevOps Engineer\nGreat passion in work, problem resolver.",
+          "-Provide real time communication.\n-Best code base\n-High speed and quality\n-Solution finder\n-Hard worker"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Todor Iliev",
+        "metadata": [
+          "Burgas, Burgas, Bulgaria",
+          "Burgas,",
+          "Burgas,",
+          "Bulgaria",
+          "41,125\n/yr",
+          "41,125",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg",
+          "title": "Web Developer",
+          "description": [
+            "$45/hr   \u00b7   Starting at $100",
+            "I'm a full stack web developer with lots of experience in Ruby on Rails (aka RoR, or simply Rails), plain Ruby, and Javascript (been writing since 2004). After heavily 'abusing' jquery for a decade fo\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Amazon Web Services",
+            "Docker",
+            "JavaScript",
+            "jQuery",
+            "Node.js"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Jun, 2020",
+            "Earnings in Past 12 Months: $41,125",
+            "All Time Earnings: $94,249",
+            "Employers: 1",
+            "Invoices Paid: 87",
+            "Largest Employer: $94,249"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["Todor Iliev"],
+        "bio": []
+      }
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "ExcellaTek",
+        "metadata": [
+          "Orlando, Florida, United States",
+          "Orlando,",
+          "Florida,",
+          "United States",
+          "40,810\n/yr",
+          "40,810",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1654279188/pimg/FreelancerFiles/0/746/746187/uzxhx7hke5klfqz2m9af.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1652712199/pimg/FreelancerFiles/0/746/746187/evhu8xfq8gwwhxo3dcjp.png",
+          "title": "iOS, Android, Ruby, PHP, PrestaShop",
+          "description": [
+            "$80/hr   \u00b7   Starting at $2,000",
+            "We're seasoned iOS & Android Development Expert. We also specialize in Ruby, PHP and PrestaShop Development. 16+ Years of hands-on development experience. More than 375 apps and games delivered succes\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "Android",
+            "Android Development",
+            "Android Programming",
+            "Facebook",
+            "Game Design"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Web Design & Development",
+          "description": [
+            "$80/hr   \u00b7   Starting at $500",
+            "Our Skills include: PHP Magento Shopify Wordpress Laravel CSS MySql VB Opencart .Net C# AJAX DreamWeaver ASP.NET Java & Java script Joomla XHTML Prestashop AWS.\nExcellaTek provides high-quality and in\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Web Development & Design",
+            "Ajax",
+            "Android",
+            "Android Development",
+            "ASP",
+            "ASP.NET"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1652711997/pimg/FreelancerFiles/0/746/746187/ees9c1p5eh8otcm7cl62.png"
+        },
+        {
+          "title": "Search Engine Optimization",
+          "description": [
+            "$45/hr   \u00b7   Starting at $500",
+            "Our Search Engine Optimization methods involve using the the most modern and powerful tactics in the game, based on the most up to date algorithms introduced by Google, Yahoo and Bing. Our methodology\u2026"
+          ],
+          "skills": [
+            "Sales & Marketing",
+            "Sales & Marketing Management",
+            "Backlinking",
+            "Blog Management",
+            "Brand Management",
+            "Inbound Marketing",
+            "Link Building"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1652712523/pimg/FreelancerFiles/0/746/746187/wucs8jgi9a8stxztr2zf.png"
+        },
+        {
+          "title": "Web Content Writing Services",
+          "description": [
+            "$45/hr   \u00b7   Starting at $300",
+            "Having great web content is very important for your website. Let's face it, nobody wants to visit a website that has sloppy or inaccurate content. We know how to keep your audience engaged, and have t\u2026"
+          ],
+          "skills": [
+            "Writing & Translation",
+            "Web Content",
+            "Blog Management",
+            "Blog Writing",
+            "Content Editing",
+            "Content Management",
+            "Content Marketing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1652711997/pimg/FreelancerFiles/0/746/746187/ees9c1p5eh8otcm7cl62.png"
+        },
+        {
+          "title": "Bot Development & Automation Programming",
+          "description": [
+            "$70/hr   \u00b7   Starting at $1K",
+            "ExcellaTek also specializes in developing complex bots for automating any process or task imaginable. Whether you need a bot to extract data from a website, or a script to dump data into an online sou\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            ".NET",
+            "Bot",
+            "C#",
+            "C++",
+            "Data Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1652712523/pimg/FreelancerFiles/0/746/746187/wucs8jgi9a8stxztr2zf.png"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "Bullet Proof Zone",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1652712199/pimg/FreelancerFiles/0/746/746187/evhu8xfq8gwwhxo3dcjp.png"
+        },
+        {
+          "title": "BBQGrillPeople.com",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1652711997/pimg/FreelancerFiles/0/746/746187/ees9c1p5eh8otcm7cl62.png"
+        },
+        {
+          "title": "Lone Star Fire",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1652712523/pimg/FreelancerFiles/0/746/746187/wucs8jgi9a8stxztr2zf.png"
+        },
+        {
+          "title": "Foster Grant",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1652712875/pimg/FreelancerFiles/0/746/746187/nxrpho3icqnadbqpg7pz.png"
+        },
+        {
+          "title": "Knock Around",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1652713081/pimg/FreelancerFiles/0/746/746187/f5rc5bzddvm7l6szckf6.png"
+        },
+        {
+          "title": "Filson",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1652713286/pimg/FreelancerFiles/0/746/746187/p4pzbxoxn9rh1zxwq491.png"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Oct, 2007",
+            "Earnings in Past 12 Months: $40,810",
+            "All Time Earnings: $200,358",
+            "Employers: 84",
+            "Invoices Paid: 444",
+            "Largest Employer: $11,750"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/v1669231196/pimg/EmployerFiles/1/288/1288217/cvugloup90tyyzjycpmt.jpg",
+              "commnet": [
+                "Lawyers Limited \u00b7 Dec 27, 2022",
+                "Great job and great communication",
+                "for Program a sales board"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Arty Dodger \u00b7 Sep 19, 2022",
+                "So far, great experience working with Ken and ExcellaTek. Just getting started, but very professional and responsive.",
+                "for Two AR experiences"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Arty Dodger \u00b7 Sep 19, 2022",
+                "Great first delivery from Ken and ExcellaTek. Genuinely exceeding my expectations. Looking forward to the final product!",
+                "for Two AR experiences"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Arty Dodger \u00b7 Sep 19, 2022",
+                "So far, great experience working with Ken and ExcellaTek. Just getting started, but very professional and responsive.",
+                "for Two AR experiences"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Arty Dodger \u00b7 Sep 19, 2022",
+                "Ken and the team at ExcellaTek created two WebAR experiences for my project. Ken and the team are fantastic to work with! We had a great initial discussion on the work I wanted to do and Ken understood immediately. He asked pertinent questions, offered great and affordable solutions, was extremel \u2026Read More",
+                "for Two AR experiences"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1654279188/pimg/FreelancerFiles/0/746/746187/uzxhx7hke5klfqz2m9af.jpg"
+        ],
+        "abstrac": [
+          "ExcellaTek",
+          "Software Architects & Engineers | Web | Mobile | Bots | Scripts | Automation - Your Partners in Everything Digital"
+        ],
+        "bio": [
+          "ExcellaTek offers web design, web development, and mobile application development services for many industries, ranging from simple e-commerce solutions to mobile apps and the most complex web applications.\n\nBuilding trust is key to the success of any business, that is something we firmly believe in. Whether you're new to the industry or have built any number of websites/applications in the past, you're guaranteed to get the best service and quality from us every single time.\n\nWe follow a four-point development approach for each project:\n\n1) Define: We discuss the needs of the customer and the project's scope.\nWe chat with you about your objectives and offer any necessary advice.\n\n2) Design: Using wireframes and UI prototypes, we bring visual clarity to your ideas.\n\n3) Develop: We follow a phased, agile-like development process which involves you, the customer, as much as possible so you always know the status of your project. You remain at the forefront.\n\n4) Deploy: We offer server deployment, maintenance services, and full integration with your current systems. \n\nTechnological Expertise:\n\n\u2022 Desktop: C++/Qt, .Net, Java, Ruby / On Rails\n\u2022 Web: React, Angular, Wordpress, Node.js, Python / DJango, PHP/Laravel/Yii/Magento, .Net, Java, AWS Serverless Computing, Twilio\n\u2022 Mobile: React Native, Ionic, Xamarin, Cordova, Flutter, Objective C, SWIFT, Java\n\u2022 Bots / Scripts: Python / DJango, Selenium, PHP, C#, VB.Net, Javascript, C++\n\u2022 Databases: SQL (MySQL, PostgreSQL, MS SQL and NoSQL),MongoDB, Dynamo, Firebase\n\u2022 System and Software Architecture: Micro-services Architecture, Multi-tenant Architectures, Multi-tier Architecture\n\u2022 DevOps: AWS, Google Cloud, CI/CD, Containers - Docker/Kubernetes\n\u2022 Firmware, ARM Microcontroller, Raspberry Pi Firmware, AVR Microcontroller\n\u2022 Advanced Software Solutions: 3D/2D Graphics, Image Processing, AR/VR, Computer Vision, D Algorithmic (OpenCV, CUDA, Vuforia/Google VR/ARKit, Three.js, WebAssembly), Twilio\n\nBest,\n\nKen",
+          "Flexible"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "user": {
+        "name": "Jeffrey Campbell",
+        "metadata": [
+          "Lemoore, California, United States",
+          "Lemoore,",
+          "California,",
+          "United States",
+          "40,430\n/yr",
+          "40,430",
+          "/yr",
+          "\u00b7",
+          "99.3%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1632608477/pimg/FreelancerFiles/3/966/3966277/imlma6qjdjntpwyrpzdm.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1642725891/pimg/FreelancerFiles/3/966/3966277/wuge2vlfmuc0gwjcofnm.jpg",
+          "title": "Native Mobile App (iOS/Android)",
+          "description": [
+            "$78/hr   \u00b7   Starting at $20,000",
+            "GoFormz\nhttp://www.goformz.com\nhttps://apps.apple.com/us/app/goformz-mobile-forms-reports/id506181778\nhttps://play.google.com/store/apps/details?id=com.goformz\nThe project involved iOS and Android nat\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "Android Development",
+            "App & Mobile Programming",
+            "App Development",
+            "Java",
+            "Kotlin"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Sep, 2021",
+            "Earnings in Past 12 Months: $40,430",
+            "All Time Earnings: $40,430",
+            "Employers: 7",
+            "Invoices Paid: 22",
+            "Largest Employer: $18,370"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1632608477/pimg/FreelancerFiles/3/966/3966277/imlma6qjdjntpwyrpzdm.jpg"
+        ],
+        "abstrac": ["Jeffrey Campbell", "Senior Software Engineer"],
+        "bio": [
+          "Hello. I am a software engineer with 10+ years of experience focusing on mobile applications and worked with a talented, experienced team to establish mobile design patterns, development workflow, and code solutions for native mobile apps for Android and iOS. (Objective-C/Swift, Java/Kotlin)\n\nMy expertise is to design and develop games used to connect to devices, visualize sensors, play video games. Developed game apps across multiple platforms to include iOS, Android, IoT, TV and VR.\n\nI am also an expert Unity developer with many projects under my belt ranging from mobile games to VR/AR to physical devices. I am just as comfortable writing fancy shaders as I am writing AI algorithms or designing fun and engaging puzzle games.\n\nFor the last 5 years, we provided mobile architecture leadership and cross-platform coding expertise for Android, iOS, TV and Windows. (React/React Native, Flutter/Dart).\n\nOur passion lies in providing the best user experience through beautiful and intuitive UI design.\n\nI hope to impact as many projects as possible through the Guru community.\nCheers.",
+          "Only for Remote jobs.\n\n40+hrs/week in US time zone."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "user": {
+        "name": "Awni-H",
+        "metadata": [
+          "Amman, Amman, Jordan",
+          "Amman,",
+          "Amman,",
+          "Jordan",
+          "40,375\n/yr",
+          "40,375",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/1298258/Users-awni-PortraitUrl_100_635025707152949709.1ccf815b.nskhd5lpffp_cropped_635025707220309709_guruImgLarge.1ccf8162.kbl1mnmbpck.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg",
+          "title": "Programming",
+          "description": [
+            "$20/hr   \u00b7   Starting at $25",
+            "10+ years in Leading teams, C#, ASP.NET, AJAX, Java Script, VB.NET, GPS, Vehicle Tracking and more recently."
+          ],
+          "skills": [
+            "Programming & Development",
+            ".NET",
+            ".net Development",
+            "Android",
+            "Android Development",
+            "GPS"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Web Programming",
+          "description": [
+            "$20/hr   \u00b7   Starting at $25",
+            "10+ years in Leading teams, C#, ASP.NET, AJAX, Java Script, VB.NET, GPS, Vehicle Tracking and more recently."
+          ],
+          "skills": [
+            "Programming & Development",
+            ".NET",
+            ".net Development",
+            "Android",
+            "Android Development",
+            "GPS"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg"
+        },
+        {
+          "title": "Database Design",
+          "description": [
+            "$20/hr   \u00b7   Starting at $25",
+            "10+ years in Leading teams, C#, ASP.NET, AJAX, Java Script, VB.NET, GPS, Vehicle Tracking and more recently."
+          ],
+          "skills": [
+            "Programming & Development",
+            ".NET",
+            ".net Development",
+            "Android",
+            "Android Development",
+            "GPS"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg"
+        },
+        {
+          "title": "Smart Phone Applications",
+          "description": [
+            "$20/hr   \u00b7   Starting at $25",
+            "10+ years in Leading teams, C#, ASP.NET, AJAX, Java Script, VB.NET, GPS, Vehicle Tracking and more recently."
+          ],
+          "skills": [
+            "Programming & Development",
+            ".NET",
+            ".net Development",
+            "Android",
+            "Android Development",
+            "GPS"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/298/1298258/all_d496c964-044c-4ec1-b822-bdf530842b64.png"
+        },
+        {
+          "title": "Mobile Applications",
+          "description": [
+            "$20/hr   \u00b7   Starting at $25",
+            "10+ years in Leading teams, C#, ASP.NET, AJAX, Java Script, VB.NET, GPS, Vehicle Tracking and more recently."
+          ],
+          "skills": [
+            "Programming & Development",
+            ".NET",
+            ".net Development",
+            "Android",
+            "Android Development",
+            "GPS"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Jan, 2013",
+            "Earnings in Past 12 Months: $40,375",
+            "All Time Earnings: $73,131",
+            "Employers: 3",
+            "Invoices Paid: 34",
+            "Largest Employer: $68,006"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/v1677606137/pimg/EmployerFiles/1/248/1248094/dyxph9xnmtfwkkhdq7ae.png",
+              "commnet": [
+                "Grepix Infotech Pvt Ltd \u00b7 Sep 25, 2022",
+                "I am fully satisfied with the service and communication. Very knowledgable and expert, recommended to all.",
+                "for To develop a logistic website"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "cagri 3 \u00b7 Jun 19, 2021",
+                "Very good",
+                "for DAPP consulting and Smart Contract debug"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "cagri 3 \u00b7 Jun 08, 2021",
+                "Very nice business",
+                "for Smart Contract Consulting"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "cagri 3 \u00b7 Apr 25, 2021",
+                "Great Job.",
+                "for Block chain game with nft"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "cagri 3 \u00b7 Feb 10, 2021",
+                "perfect. ty",
+                "for Defi Smart Contract Development"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://www.guru.com/gurufiles/pro/1298258/users-awni-portraiturl_100_635025707152949709.1ccf815b.nskhd5lpffp_cropped_635025707220309709_guruimglarge.1ccf8162.kbl1mnmbpck.jpg"
+        ],
+        "abstrac": [
+          "Awni-H",
+          "Blockchain,smart contract developer. iOS/Android Dev."
+        ],
+        "bio": [
+          "18+ years in C#, ASP.NET, AJAX, Java Script, VB.NET, Web, GPS, Vehicle Tracking, SQL Sever, SQL Server Compact, and Windows Mobile development.\n\nMore than 18 years of experience in software development, as a technical team leader, system analysis, and project management. We have extensive experience in Social Networks, Minimum Viable Products, and start-ups.\n\nI excel in the following areas:\n- Smart contract and dAPP development\n- Mobile Development( Android, Android SDK, iOS, Objective-C, BlackBerry, Windows Phone, PhoneGap, ExtJS, HTML5, xCode, Titanium/Appcelerator)\n- Game Developement( Android, Android SDK, iOS, Objective-C, BlackBerry, Windows Phone, PhoneGap, ExtJS, HTML5 xCode, Titanium/Appcelerator)\n- Mapping, GPS, GIS, Google Maps V3/V2, Vehicle Tracking\n- Server-side applications development\n- Database(SQLServer, Oracle, MySQL, SQLite)\n- Database Modelling\n- Web Development(ASP.NET, PHP, RESTful APIs, JavaScript, AJAX, Web Services)\n- XML, JSON\n- Amazon, AWS, EC2, AppHarbor\n- SVN, TFS, Github\n\n10 years Android, iPhone, iPad, iOS, BlackBerry, Windows Phone Development.  \nless*"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "user": {
+        "name": "Maks N",
+        "metadata": [
+          "Bar, Bar, Montenegro",
+          "Bar,",
+          "Bar,",
+          "Montenegro",
+          "40,064\n/yr",
+          "40,064",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_engineering_arch.jpg",
+          "title": "Architect & Designer",
+          "description": [
+            "$15/hr   \u00b7   Starting at $100",
+            "10+ years of experience Strong skills: Also do stuff in Virtual Reality with Unreal Engine 4 for Oculus, HTC Vive, Cardboard. Video editing \u2014 AfterEffects \u2022 Element 3D \u2022 Adobe premiere"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "3D Modeling",
+            "3D Rendering",
+            "3ds Max",
+            "Adobe InDesign",
+            "Adobe Photoshop"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Mar, 2020",
+            "Earnings in Past 12 Months: $40,064",
+            "All Time Earnings: $87,125",
+            "Employers: 4",
+            "Invoices Paid: 104",
+            "Largest Employer: $79,958"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["Maks N"],
+        "bio": []
+      }
+    },
+    {
+      "id": 7,
+      "user": {
+        "name": "Wiser Software",
+        "metadata": [
+          "Charlotte, North Carolina, United States",
+          "Charlotte,",
+          "North Carolina,",
+          "United States",
+          "40,000\n/yr",
+          "40,000",
+          "/yr",
+          "\u00b7",
+          "50%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1667243806/pimg/FreelancerFiles/3/699/3699999/t6u4tklngvenuuks4yu2.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1615411639/pimg/FreelancerFiles/3/699/3699999/ttjd02b1bzhkakk2kptq.png",
+          "title": "Software Development",
+          "description": [
+            "$75/hr   \u00b7   Starting at $1,000",
+            "Senior mobile & web application developers with end to end experience developing and releasing iOS, Android, Web, and server-side applications using Swift, React Native/Flutter and Java, C#, SQL etc."
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            ".NET",
+            ".net Core",
+            ".net Framework",
+            "Angular",
+            "C#"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Mar, 2021",
+            "Earnings in Past 12 Months: $40,000",
+            "All Time Earnings: $40,000",
+            "Employers: 1",
+            "Invoices Paid: 11",
+            "Largest Employer: $40,000"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Guy 141 \u00b7 Oct 09, 2022",
+                "Thanks Abdi for your competence and dependability. If the app is finally completed it will be thanks to you.",
+                "for Complete Useable API, Web, and Apps"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1667243806/pimg/FreelancerFiles/3/699/3699999/t6u4tklngvenuuks4yu2.png"
+        ],
+        "abstrac": ["Wiser Software", "Mobile Application development"],
+        "bio": [
+          "From ideation, development, publishing, monetizing and growing, We have worked through the entire lifecycle of an application. Beyond development, We are ready to offer my expertise from idea to production through clear, reliable and delightful service. We are looking for opportunities in software development that requires me to solve complex problems and learn more about different technologies. We have created 50+ fully functional mobile & web applications so far. If you are interested in working with us, We are available to contact 24/7.",
+          "Web Frontend Development : JavaScript, Angular, React.js, etc\nWeb Backend Development : C#, .NET, SQL, T-SQL, Azure DevOps etc\nNative iOS Mobile App Development - Swift, SwiftUI, Objective-C\nNative Android Mobile App Development - Kotlin, Java\nCross-Platform Mobile App Development - Flutter/Dart, React Native\nMobile Back-end Development - Firebase, Amazon Web Services, Node.js, Python etc"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "user": {
+        "name": "Colan Infotech (P) LTD",
+        "metadata": [
+          "Chennai, Tamil Nadu, India",
+          "Chennai,",
+          "Tamil Nadu,",
+          "India",
+          "38,483\n/yr",
+          "38,483",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/1/720/1720700/Untitled_635737568926728471_guruImgLarge_d32575b8-b6a1-43c9-9d2b-74c67be4f280.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/720/1720700/java_technology_stack_4487b219-fb31-45a0-bdb9-f645edfeeed8.jpg",
+          "title": "JAVA Web & Enterprise App Services",
+          "description": [
+            "$20/hr   \u00b7   Starting at $2,500",
+            "Colan InfoTech is renowned as a Java development service provider that offers exceptional Java/J2EE programming services to suit the web and mobile application development requirements of the clients.\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apache Maven",
+            "Developer",
+            "Ejb",
+            "Grails",
+            "Hibernate"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "AI and Machine Learning Services",
+          "description": [
+            "$25/hr   \u00b7   Starting at $5K",
+            "The web application is developed to identify & classify cracks from road image or videos using Image Processing And Machine Learning technologies. We used CNN deep learning to train our model and SVM"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "API",
+            "App Development",
+            "Artificial Intelligence",
+            "Computer Engineer",
+            "Customer Service"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/720/1720700/AI-IN-BANKS_9ee462b6-0e6e-421f-b8ed-d34561190896.jpg"
+        },
+        {
+          "title": "Cyber Security",
+          "description": [
+            "$30/hr   \u00b7   Starting at $5K",
+            "Expertise in Cyber Security Application Development. Cyber Security Application to track companies their security level, vulnerability management, cyber-attacks, and also Syslog integration (firewalls\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Information Security",
+            "Antispam",
+            "Antivirus",
+            "API Development",
+            "Cisco PIX",
+            "Data Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1631721283/pimg/FreelancerFiles/1/720/1720700/uwciamnky3napuz4acrx.jpg"
+        },
+        {
+          "title": "Enterprise Mobility - iOS/Android/Swift",
+          "description": [
+            "$18/hr   \u00b7   Starting at $2K",
+            "Enterprise Mobility Management \u2013 The World in your palm A sea of change has been brought by the latest developments in technology and these have caused massive shifts in the way we perceive our way of\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Access",
+            "Android",
+            "Application Development",
+            "Blackberry",
+            "Business Intelligence"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/720/1720700/ourexpertise_6a0e2473-9555-43fb-a48f-7831392c7ee7.PNG"
+        },
+        {
+          "title": "EMR & Clinical Management System",
+          "description": [
+            "$18/hr   \u00b7   Starting at $2K",
+            "EMR (electronic medical record) Definition The EMR or electronic medical record refers to everything you\u2019d find in a paper chart, such as medical history, diagnoses, medications, immunization dates, a\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Clinical Data Management",
+            "Data Warehouse",
+            "Ehr",
+            "Electronics",
+            "Emr"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/720/1720700/EMR_&_Clinic_Management_System_Case_Study_003_c57d4740-9367-48ab-b149-f6ffab740a25.jpg"
+        },
+        {
+          "title": "Microsoft Sharepoint Services",
+          "description": [
+            "$25/hr   \u00b7   Starting at $2K",
+            "Colan InfoTech has unique strength in providing Enterprise SharePoint Services ranging from strategic design, branding, consulting, implementation, development, governance, capacity planning, and trai\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "App Development",
+            "Azure",
+            "Blogs",
+            "Capacity Planning",
+            "Cloud Computing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/720/1720700/maxresdefault_43af9a3e-0924-406f-ba55-fa14324309f1.jpg"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "JAVA Web & Enterprise Application Development Services",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/720/1720700/java_technology_stack_4487b219-fb31-45a0-bdb9-f645edfeeed8.jpg"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Jul, 2015",
+            "Earnings in Past 12 Months: $38,483",
+            "All Time Earnings: $367,573",
+            "Employers: 26",
+            "Invoices Paid: 325",
+            "Largest Employer: $219,484"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/1/059/1059664/hughes_637272758946084758_guruImgLarge_67a21a69-7437-4dcc-aa3c-d7b1eccbd768.jpg",
+              "commnet": [
+                "HueyNet, LLC \u00b7 Jul 28, 2020",
+                "Great team to work. Large bench.",
+                "for Multi-Tenant Microsoft 365 Management"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Roger 210 \u00b7 Jan 20, 2020",
+                "The complex design phase was efficient and looks better than we anticipated. The assembled CI team is easy to work with and we anticipate an equally streamlined development stage!",
+                "for Web-Based Electronic Form Submission"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Hugh Joseph Consulting Inc \u00b7 Sep 01, 2019",
+                "great work",
+                "for Laravel/Angular"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Hugh Joseph Consulting Inc \u00b7 Aug 19, 2019",
+                "great work",
+                "for Laravel/Angular"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Hugh Joseph Consulting Inc \u00b7 Aug 12, 2019",
+                "doing fine work :)",
+                "for Laravel/Angular"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/1/720/1720700/Untitled_635737568926728471_guruImgLarge_d32575b8-b6a1-43c9-9d2b-74c67be4f280.jpg"
+        ],
+        "abstrac": [
+          "Colan Infotech (P) LTD",
+          "Data Science,AI/ML, JAVA,.NET, MERN,MEAN,Mobile,PHP"
+        ],
+        "bio": [
+          "Colan Infotech - IT professional services company an offshore software development firm located in India and holds a strong reputation in IT market for helping clients across USA, Canada & UK.\n\nOur areas of expertise are Oracle (DB, ERP), Microsoft, SAP, CRM, Java, BI, Cloud Computing, ASP.NET, Mobile Applications, PHP, Magento, Drupal, Wordpress and much more. When we say development, it includes customization, integration, redefining existing architecture, support and implementation. When it comes to Quality, we are very keen on this area and this made us to capture a good name and stretch our population of 200+ professionals.\n\nWorking either on stand-alone projects or with your development team, our goal is to ensure that you get the best possible quality and delivery for your money in addition to seamlessly integrating with your processes and people for a good all-round experience. Kindly consider providing an opportunity to prove our capabilities.\n\nCommunication: You can reach us at any time via the following mediums,",
+          "Engagement Model -\n\u2022 Fixed Bid \u2013 Fixed price/scope, any future enhancement would be considered as Change Request and billed separately\n\u2022 Time & Material \u2013 \u201cPay as you use\u201d Model, \n\u2022 Retainer \u2013 Monthly Billing engagement, where a dedicated developer would be made available to work 180 hours per month\n\nCommunication Mechanisms -\n\u2022 Email: All status updates, meeting requests, agenda\u2019s and minutes of the meeting.\n\u2022 Telephone: Conference calls shall be the default method for all weekly status update meetings to discuss current project status as well as to discuss all escalations (if any).\n\u2022 Instant Messaging: Various types of IM would be used for online, real time communication between team members and stakeholders.\n\u2022 LiveMeeting: COLAN Infotech uses WebEx to enable real-time desktop and application sharing features between the teams."
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "user": {
+        "name": "Adam Freund Design LLC",
+        "metadata": [
+          "Bozeman, Montana, United States",
+          "Bozeman,",
+          "Montana,",
+          "United States",
+          "38,114\n/yr",
+          "38,114",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/1/352/1352766/_DSC5113-2_636661412754127885_guruImgLarge_3932e5cc-c250-4409-996f-b19f163ddf3e.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG",
+          "title": "CAD & AutoCAD",
+          "description": [
+            "$220/hr   \u00b7   Starting at $6,000",
+            "I am a skilled, efficient, and versatile CAD designer, who can help you with your project regardless of its size or complexity. From manufacturing drawings, to product development, to modifying/conver\u2026"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "CAD / 2D / 3D / Technical Drawings",
+            "3D",
+            "3D Printing",
+            "3d Prototyping",
+            "Autodesk AutoCAD",
+            "Cad"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Consumer Product CAD Drawing and Design",
+          "description": [
+            "$220/hr   \u00b7   Starting at $6K",
+            "Whether you have a conceptual idea for a product that you need help turning into a reality, or you know exactly what you want and just need drawings and files that you can send for manufacturing or pr\u2026"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "CAD / 2D / 3D / Technical Drawings",
+            "2D Design",
+            "3D Design",
+            "3D Modeling",
+            "3D Rendering",
+            "AutoCAD"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG"
+        },
+        {
+          "title": "Reverse Engineering",
+          "description": [
+            "$220/hr   \u00b7   Starting at $6K",
+            "Whether a simple part or a complex machine, I will reverse engineer an existing product, part or machine and accurately reproduce a 3D CAD model. I can make any modifications, alterations, adjustments\u2026"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "Engineering (Mechanical / Chemical / Civil / Electrical)",
+            "2D Design",
+            "2d Drawing",
+            "3D",
+            "3D Printing",
+            "3d Prototyping"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG"
+        },
+        {
+          "title": "Industrial Engineering and Design",
+          "description": [
+            "$220/hr   \u00b7   Starting at $6K",
+            "I am a skilled, efficient, and versatile CAD designer, who can help you with your project regardless of its size or complexity. From manufacturing drawings, to product development, to modifying/conver\u2026"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "CAD / 2D / 3D / Technical Drawings",
+            "2D Design",
+            "3D Design",
+            "3D Modeling",
+            "3D Printing",
+            "3d Prototyping"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG"
+        },
+        {
+          "title": "Mechanical Design",
+          "description": [
+            "$220/hr   \u00b7   Starting at $6K",
+            "I am a skilled, efficient, and versatile CAD designer, who can help you with your project regardless of its size or complexity. From manufacturing drawings, to product development, to modifying/conver\u2026"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "CAD / 2D / 3D / Technical Drawings",
+            "2D Design",
+            "3D Design",
+            "3D Modeling",
+            "3D Rendering",
+            "Alternative Energy"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG"
+        },
+        {
+          "title": "Photorealistic 3D Rendering",
+          "description": [
+            "$220/hr   \u00b7   Starting at $6K",
+            "Whether I created your 3D CAD files or not, I can provide you with professional-quality 3D photorealistic renderings. I render stunning realistic-looking images in any of the common image file types."
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "CAD / 2D / 3D / Technical Drawings",
+            "2D Design",
+            "3D",
+            "3D CAD",
+            "3D Design",
+            "3D Modeling"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "CAD Design",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/352/1352766/Render_b3ec4d71-7df4-45c5-8a79-d35510b6ba5a.JPG"
+        },
+        {
+          "title": "Patent Drawings",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/352/1352766/Final%20-%20Tactical%20flashlight%20utility%20patent%20drawing-01_ba4a380a-881c-45bf-968b-0c39ce0d2fd6.png"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: May, 2013",
+            "Earnings in Past 12 Months: $38,114",
+            "All Time Earnings: $164,356",
+            "Employers: 35",
+            "Invoices Paid: 158",
+            "Largest Employer: $65,556"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "SBH, Inc. \u00b7 Mar 08, 2023",
+                "Adam continues to put hard work and creativity into my company's project. His efforts have been tremendous.",
+                "for Animation for product"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "SBH, Inc. \u00b7 Feb 22, 2023",
+                "Adam continues to excel in his work for my company and always makes himself available when needed most. I have worked with Adam for 2 1/2 years now and will continue to do so as I appreciate his integrity and work ethic.",
+                "for Animation for product"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "SBH, Inc. \u00b7 Dec 13, 2022",
+                "Thank you Adam for your continued hard work work completed in a timely fashion!",
+                "for Animation for product"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "SBH, Inc. \u00b7 Nov 29, 2022",
+                "Adam continues to provide vital product design and creativity for the project my company is working on. He is also very accommodating with timelines. He has truly been a pleasure to work with.",
+                "for Animation for product"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "SBH, Inc. \u00b7 Sep 21, 2022",
+                "Great job Adam! Your creativity, professional expertise and hard work ethic has helped my company immensely. My customer was very pleased with the final design.",
+                "for Animation for product"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/1/352/1352766/_DSC5113-2_636661412754127885_guruImgLarge_3932e5cc-c250-4409-996f-b19f163ddf3e.jpg"
+        ],
+        "abstrac": [
+          "Adam Freund Design LLC",
+          "Bringing innovative physical product ideas to life since 2012."
+        ],
+        "bio": [
+          "Services include mechanical product design, CAD, prototyping, 3D printing, concepting, DFM, patent drawings, feasibility consulting, reverse engineering, photorealistic rendering, computer simulation/FEA, and IoT mechanical hardware design. With over six years of full-time, professional product design experience, over 100 projects completed, and a B.S. in mechanical engineering, Adam Freund Design LLC has the experience needed to make your idea a reality. Visit adamfreunddesign.com for more details.",
+          "I require that payments either be made using SafePay or paid up front."
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "user": {
+        "name": "U&H Creativity",
+        "metadata": [
+          "Lahore, Punjab, Pakistan",
+          "Lahore,",
+          "Punjab,",
+          "Pakistan",
+          "36,881\n/yr",
+          "36,881",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1627825658/pimg/FreelancerFiles/1/891/1891591/hzel7cxoeob1po9doyef.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/891/1891591/7c73ed7ae-b845-4cbc-b57f-7c78d831dcb5.png",
+          "title": "Creative Artist",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Hi, welcome to my home! Are you looking for Professional Virtual Assistant, Content & Blog Writer, Project Manager, Graphics designer Video Editor and VSL developer? \nIf so then don\u2019t worry, I\u2019m here"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service & Account Management",
+            "Blog Writing",
+            "Client Administration",
+            "Client Assessment",
+            "Client Orientation",
+            "Content Writing"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [
+        {
+          "title": "Content Writer, Virtual Assistant, and Video Editor",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/891/1891591/7c73ed7ae-b845-4cbc-b57f-7c78d831dcb5.png"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: May, 2016",
+            "Earnings in Past 12 Months: $36,881",
+            "All Time Earnings: $47,626",
+            "Employers: 19",
+            "Invoices Paid: 97",
+            "Largest Employer: $36,810"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Super 48 \u00b7 Feb 28, 2023",
+                "Thank you Kashif",
+                "for Project Manager"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Super 48 \u00b7 Jan 31, 2023",
+                "Thank you for your work, Kashif.",
+                "for Project Manager"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Benji 5 \u00b7 Dec 27, 2022",
+                "Very fast turnaround and great quality for my data typing project. I can highly recommend U&H Creativity",
+                "for Data typing"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Super 48 \u00b7 Dec 01, 2022",
+                "Thank you for your time and effort Kashif.",
+                "for Project Manager"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Iris Vera \u00b7 Dec 15, 2021",
+                "Effective and efficiency ! Great job",
+                "for Thai Proofreader Need"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1627825658/pimg/FreelancerFiles/1/891/1891591/hzel7cxoeob1po9doyef.jpg"
+        ],
+        "abstrac": [
+          "U&H Creativity",
+          "A creative professional who's focusing on the future"
+        ],
+        "bio": [
+          "Hey, welcome to my home! Are you looking for a Professional Content/ Ghost Writer, Virtual assistance, Project Management, Data Entry, Blog & Article writing, and VSL developer or Video editor? If so then don\u2019t worry I\u2019m here to accomplish your given task in a very different professional way through the quality of work and using different latest software and techniques. I have experience of more than 5 years in the \u201cDesign & Creative writing\u201d field with the satisfaction of 500+ clients.\nExpert Areas:\nProduct Research \nContent Writing\nScript Writing\nVideo Production\nYouTube Channel Management\n\nCompetencies:\nVLOG/ BLOG Writing\nVideo Sales Letter (VSL) Production using the latest software.\nVideo Editing\nVoice Over (English, Urdu, Hindi, Punjabi)\nPodcasting\nProofreading and Editing\nSEO\nExtra Fast Delivery.\nMigrating.\n\nSkills:\nCreate Contents based on Web research\nWrite attractive Script\nEye-catching Video Sales Letter \nSEO friendly research\nVideo Editing according to customer demand.\nYouTube Channel creating and Management \nEffective Voiceover/ Podcasting\nProofreading and documents management \n\nServices:\nVideo for Social Media.\nVideo from an Article or a Blog post.\nSales Video.\nVideos for Online Courses.\nProperty Listing Videos.\nInstant Ads.\nInfluence's Video.\n\nRequirements:\nScript (if drafted by client) Product Title.\nVoice Over (If Developed by Client)\nCompany Logo\nTitle/ Description.\nImage or Links.\n\nWhy work with me?\nProfessional working environment.\nFee Sample delivery. \nComplete satisfaction.\n100% Money back guarantee.\nVery Easy communication.\nExtremely quick delivery.\nUnlimited revision.\n\nSo, what you are waiting for? Give me your requirement and rest leave on us. Please contact me for any further assistance. \nHave a nice day!",
+          "I'm available any time, Payment will be based on milestone achievement or project is done. My medium of communication will in English. Project time will depend on client demand and project requirements."
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "user": {
+        "name": "Dmytro Semeniuta",
+        "metadata": [
+          "Zaporizhzhia, Zaporiz\u2019ka Oblast\u2019, Ukraine",
+          "Zaporizhzhia,",
+          "Zaporiz\u2019ka Oblast\u2019,",
+          "Ukraine",
+          "36,800\n/yr",
+          "36,800",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/3/578/3578920/2020-11-24%2013.57.08_637418158540438363_guruImgExtraLargebede86fe-c996-402d-987e-ab9a445886d7.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg",
+          "title": "Full stack developer",
+          "description": [
+            "$25/hr   \u00b7   Starting at $25",
+            "I'm 6+ years of experienced web developer. I have experience working in both big and small teams. I will gladly work on your project)"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Back End Development",
+            "Client Development",
+            "Full Stack Development",
+            "Instructional Design",
+            "JavaScript"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Nov, 2020",
+            "Earnings in Past 12 Months: $36,800",
+            "All Time Earnings: $197,480",
+            "Employers: 1",
+            "Invoices Paid: 80",
+            "Largest Employer: $197,480"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/0/854/854850/IMG_20190904_125140_637113368457403960_guruImgLarge_3fe232b1-c944-403f-9102-a5ab52b1f7be.jpg",
+              "commnet": [
+                "Child Mind Institute \u00b7 Jan 07, 2021",
+                "Aleksey continues to do excellent work, independently executing on important components to a large project within tight timelines. We are very grateful for contributions to the project.",
+                "for Create a scoring value in applet builder"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/3/578/3578920/2020-11-24%2013.57.08_637418158540438363_guruImgExtraLargebede86fe-c996-402d-987e-ab9a445886d7.jpg"
+        ],
+        "abstrac": ["Dmytro Semeniuta", "Full Stack Web developer"],
+        "bio": [
+          "Award-winning web/mobile developer and instructor with 7+ years well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a top technology firm.\n\nStrong creative, analytical and problem-solving skills to build high-speed, dynamic websites/mobile apps.\n\nSkills\n- javascript, react/redux, react-native, vue, angular for frontend development\n- c#/.net, python/django, php/laravel, java, node.js for backend development\n- mysql, postgresql, mongodb for database development",
+          "Availability: 24/7\nPayment Terms: Payment upon Work Completion"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "user": {
+        "name": "Ihor Sabram",
+        "metadata": [
+          "Kropyvnytskyi, Kirovohrads'ka Oblast', Ukraine",
+          "Kropyvnytskyi,",
+          "Kirovohrads'ka Oblast',",
+          "Ukraine",
+          "36,692\n/yr",
+          "36,692",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/3/251/3251112/%25d0%25a4%25d0%25b0%25d0%25b9%25d0%25bb_001_637207614932497406_guruImgLarge_548955a4-4339-4fad-9ab0-ab6fb1fae90a.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg",
+          "title": "Full-Stack Web developer",
+          "description": [
+            "$35/hr   \u00b7   Starting at $300",
+            "Highly rated and achieving Full Stack Web Developer with 6 year experience in industry. Dedicated to building and optimizing the performance of user-centric, high-impact websites for personal and corp\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Back End Development",
+            "Full Stack Development",
+            "Information Technology",
+            "Mobile Development",
+            "Software Development"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Mar, 2020",
+            "Earnings in Past 12 Months: $36,692",
+            "All Time Earnings: $290,398",
+            "Employers: 1",
+            "Invoices Paid: 121",
+            "Largest Employer: $290,398"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/0/854/854850/IMG_20190904_125140_637113368457403960_guruImgLarge_3fe232b1-c944-403f-9102-a5ab52b1f7be.jpg",
+              "commnet": [
+                "Child Mind Institute \u00b7 Apr 29, 2021",
+                "Keep up the great work, Ihor!",
+                "for Back-End Development"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/0/854/854850/IMG_20190904_125140_637113368457403960_guruImgLarge_3fe232b1-c944-403f-9102-a5ab52b1f7be.jpg",
+              "commnet": [
+                "Child Mind Institute \u00b7 Apr 21, 2021",
+                "Thank you, Ihor, for continuing to do excellent work and for being a key contributor to the project! I continue to be impressed and happy with the work you are doing.",
+                "for Back-End Development"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/0/854/854850/IMG_20190904_125140_637113368457403960_guruImgLarge_3fe232b1-c944-403f-9102-a5ab52b1f7be.jpg",
+              "commnet": [
+                "Child Mind Institute \u00b7 Apr 11, 2021",
+                "Thank you, Ihor, for your continued contributions to the project!",
+                "for Back-End Development"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/0/854/854850/IMG_20190904_125140_637113368457403960_guruImgLarge_3fe232b1-c944-403f-9102-a5ab52b1f7be.jpg",
+              "commnet": [
+                "Child Mind Institute \u00b7 Jan 06, 2021",
+                "Ihor continues to do excellent work, going above and beyond the call of duty!",
+                "for Back-End Development"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/pimg/EmployerFiles/0/854/854850/IMG_20190904_125140_637113368457403960_guruImgLarge_3fe232b1-c944-403f-9102-a5ab52b1f7be.jpg",
+              "commnet": [
+                "Child Mind Institute \u00b7 Aug 02, 2020",
+                "Ihor continues to do excellent work with the team as we get closer to launching our product. I am very happy with his contributions so far!",
+                "for Back-End Development"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": []
+    },
+    {
+      "id": 13,
+      "user": {
+        "name": "Wegile",
+        "metadata": [
+          "Mohali, Punjab, India",
+          "Mohali,",
+          "Punjab,",
+          "India",
+          "36,446\n/yr",
+          "36,446",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/1/451/1451240/logo_636473757272500225_guruImgLarge_f884ed9f-e543-4de6-8ef3-cabef3fff99a.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/451/1451240/wegile_streo_b236dc4b-0917-4ee6-a237-3311d2158164.jpg",
+          "title": "Native Mobile Applications Development",
+          "description": [
+            "$16/hr   \u00b7   Starting at $25",
+            "We develop Native Mobile apps for iPhone, Android, iPad, Apple Watch, Apple TV, Wearable devices, tablets, Apple TV Native Technologies - Xcode, Swift, Android Studio, iOS, iPhone, iPad, Apple Watch\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Android",
+            "API Development",
+            "App Development",
+            "Apple",
+            "Bluetooth Low Energy"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Hybrid Mobile Application Development",
+          "description": [
+            "$16/hr   \u00b7   Starting at $25",
+            "We at Wegile support you - the bold, brave entrepreneurs who dare to change our world for the better. We are proud to support your passion and purpose and empower you to build iconic mobile and web pr\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "Android",
+            "Angular",
+            "App Development",
+            "Hybrid Mobile Applications",
+            "Ionic"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/451/1451240/wegile_transform_dab1a3b5-cd4d-490c-9bfe-e34b1e5f24db.jpg"
+        },
+        {
+          "title": "Angular, Node.js, MongoDB, Express,",
+          "description": [
+            "$16/hr   \u00b7   Starting at $25",
+            "We have expertise in MEAN stack development. We have expert developers with Skills covering: - Expertise in Angular 2, Angular 4, Node.js, MongoDB, Express. - Expertise in NodeJS framework, libraries\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Angular",
+            "Concept Development",
+            "CSS",
+            "CSS3",
+            "Framework Design"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/451/1451240/Wegile_Plankk_Web_52ad999e-501c-4a0d-a211-97e106948b5d.png"
+        },
+        {
+          "title": "React.js, Redux, MongoDB, Express, Node",
+          "description": [
+            "$16/hr   \u00b7   Starting at $25",
+            "We at Wegile support you - the bold, brave entrepreneurs who dare to change our world for the better. We are proud to support your passion and purpose and empower you to build iconic mobile and web pr\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "JavaScript",
+            "MongoDB",
+            "Node.js",
+            "ReactJS",
+            "Skill"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/451/1451240/Fresh%20By%20Transform_ae2bd501-54d5-466f-b58c-4616aa69abd9.jpg"
+        },
+        {
+          "title": "PHP Website development",
+          "description": [
+            "$16/hr   \u00b7   Starting at $25",
+            "We have expertise in LAMP, PHP Website development using PHP frameworks like Laravel, CodeIgniter, Yii, Zend, Symphony, Cake PHP. We have expertise in Open Source CMS - WordPress, Joomla, Drupal E-com\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "BigCommerce",
+            "CakePHP",
+            "CMS (Content Management System)",
+            "CodeIgniter",
+            "Drupal"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/451/1451240/Wegile_Gourmet_miles-min_663db8ae-75ce-4534-ba58-939ab27c3a3c.jpg"
+        },
+        {
+          "title": "WordPress Development",
+          "description": [
+            "$16/hr   \u00b7   Starting at $25",
+            "We at Wegile support you - the bold, brave entrepreneurs who dare to change our world for the better. We are proud to support your passion and purpose and empower you to build iconic mobile and web pr\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "App & Mobile Programming",
+            "Design",
+            "Mobile App Marketing",
+            "Mobile Development",
+            "Responsive Web Design"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/1/451/1451240/Wegile_roadpoints_4ef6abc0-cbf9-442f-9b99-7307c5c4ada4.jpg"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "2. Streo",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/451/1451240/wegile_streo_b236dc4b-0917-4ee6-a237-3311d2158164.jpg"
+        },
+        {
+          "title": "3. Bobs Watches",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/451/1451240/wegile_bobwatches_197cc703-816d-40f3-a525-6f3d56c8d34b.jpg"
+        },
+        {
+          "title": "4. Harvard University - Infosage",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/451/1451240/wegile_infosage_755f55d4-152a-4a77-b1dc-1c7f7378d9ce.jpg"
+        },
+        {
+          "title": "5. Nicole - Fit & Thick",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/451/1451240/wegile_fitandthick_447883f5-7a38-4866-a715-7ef97f22d886.jpg"
+        },
+        {
+          "title": "6. Fulgaz",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/451/1451240/wegile_fulgaz_7ef25cfe-e27f-4b75-90ea-1907e4879c77.jpg"
+        },
+        {
+          "title": "7. Lyzabethh Lopez - Hourglass Workout",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/1/451/1451240/wegile_lopez_9ba68eb6-e58a-4700-94ba-7d7a4b66ac52.jpg"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Jan, 2014",
+            "Earnings in Past 12 Months: $36,446",
+            "All Time Earnings: $424,697",
+            "Employers: 8",
+            "Invoices Paid: 430",
+            "Largest Employer: $215,567"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "penny 23 \u00b7 Mar 14, 2018",
+                "Moving forward on the project. Have been very satisfied with the developers working on the app and the website.",
+                "for ios development"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/1/451/1451240/logo_636473757272500225_guruImgLarge_f884ed9f-e543-4de6-8ef3-cabef3fff99a.png"
+        ],
+        "abstrac": [
+          "Wegile",
+          "Web and Mobile Development Experts in iPhone, iOS, TVOS, WatchOS, Swift, Objective C, AWS, Java, Socket.io, XMPP, AMQP, Android Studio, Ionic, AWS, AngularJS, NodeJS, Open Fire, AMQP, MQTT"
+        ],
+        "bio": [
+          "At Wegile, we develop innovative mobile-based products at an incredible pace for our clients worldwide.\n\nLed by a team of 100+ technology expert\u2019s, Wegile delivers full service products and mobile solutions for startups, small businesses and large enterprises across United States, Canada, United Kingdom, Europe, and Australia. \n\nAt Wegile, we use modern technologies, build market-leading products, and adhere to high standards in terms of engineering best practices (continuous deployment, continuous integration, automated testing, etc)."
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "user": {
+        "name": "jessicae7",
+        "metadata": [
+          "Washington, District of Columbia, United States",
+          "Washington,",
+          "District of Columbia,",
+          "United States",
+          "36,146\n/yr",
+          "36,146",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg",
+          "title": "Other - ERP & CRM",
+          "description": [
+            "$70/hr   \u00b7   Starting at $25",
+            "With my strong database and communication skills, as well as my enthusiasm in troubleshooting, I am seeking opportunities to help others improve their work efficiency by more fully integrating their u\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "API Development",
+            "Background Design",
+            "Communication Skills",
+            "Information Technology",
+            "Reports"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Salesforce Development",
+          "description": [
+            "$70/hr   \u00b7   Starting at $25",
+            "With my strong database and communication skills, as well as my enthusiasm in troubleshooting, I am seeking opportunities to help others improve their work efficiency by more fully integrating their u\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "API Development",
+            "Background Design",
+            "Communication Skills",
+            "Information Technology",
+            "Reports"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_programming.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Aug, 2009",
+            "Earnings in Past 12 Months: $36,146",
+            "All Time Earnings: $70,241",
+            "Employers: 3",
+            "Invoices Paid: 46",
+            "Largest Employer: $44,045"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["jessicae7"],
+        "bio": []
+      }
+    },
+    {
+      "id": 15,
+      "user": {
+        "name": "On Wave Software Group",
+        "metadata": [
+          "Charlestown, Saint Paul Charlestown, St. Kitts",
+          "Charlestown,",
+          "Saint Paul Charlestown,",
+          "St. Kitts",
+          "36,014\n/yr",
+          "36,014",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1657189897/pimg/FreelancerFiles/4/176/4176833/j5rraurt0uftagnwgqds.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1647937097/pimg/FreelancerFiles/4/176/4176833/djoqz8k6xu1fz1zkkr3r.png",
+          "title": "Mobile and Web Application Development",
+          "description": [
+            "$30/hr   \u00b7   Starting at $120",
+            "Outsource your project to us and we will deliver the software you need on budget.\nDelivering tailored agile software solutions for all your software challenges.\nWith over 20 years experience in develo\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Web Development & Design",
+            "Angular",
+            "App Development",
+            "Back End Development",
+            "Communications Technology",
+            "Consultant"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Full Stack Software Development",
+          "description": [
+            "$30/hr   \u00b7   Starting at $120",
+            "Outsource your project to us and we will deliver the software you need on budget.\nDelivering tailored agile software solutions for all your software challenges.\nWith over 20 years experience in develo\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "API",
+            "Budget Management",
+            "C#",
+            "Cloud Computing",
+            "Consultant"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1647938343/pimg/FreelancerFiles/4/176/4176833/pw38uuhw0aqegrxb5ws9.png"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "https://www.shine.com/",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1647937097/pimg/FreelancerFiles/4/176/4176833/djoqz8k6xu1fz1zkkr3r.png"
+        },
+        {
+          "title": "Multifunctional Display for Passenger Information",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1647938343/pimg/FreelancerFiles/4/176/4176833/pw38uuhw0aqegrxb5ws9.png"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Mar, 2022",
+            "Earnings in Past 12 Months: $36,014",
+            "All Time Earnings: $36,014",
+            "Employers: 1",
+            "Invoices Paid: 27",
+            "Largest Employer: $36,014"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Foster Consulting LLC \u00b7 Jan 22, 2023",
+                "Felix and his entire team are awesome and we love working with them. You always know what you are going to get, when it will be delivered, and that the job will be done right! Toby Crandall CTO, Foster Web Marketing",
+                "for SOLR Server Tuning and Maintenance"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Foster Consulting LLC \u00b7 Oct 24, 2022",
+                "Always the best quality of work, thanks to Felix and his team!",
+                "for SOLR Server Tuning and Maintenance"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Foster Consulting LLC \u00b7 Aug 31, 2022",
+                "These guys are awesome, can't wait to work with their team more moving forward!",
+                "for SOLR Server Tuning and Maintenance"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Foster Consulting LLC \u00b7 Aug 15, 2022",
+                "Always an awesome job from Felix and his team. Can't wait for our next project!",
+                "for SOLR Server Tuning and Maintenance"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Foster Consulting LLC \u00b7 Jul 10, 2022",
+                "Alway happy with the work this team does! Would happilt recommend them for any project.",
+                "for SOLR Server Tuning and Maintenance"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1657189897/pimg/FreelancerFiles/4/176/4176833/j5rraurt0uftagnwgqds.png"
+        ],
+        "abstrac": [
+          "On Wave Software Group",
+          "We are software company we are a team of nine experienced developers, outsource your project to us and we will deliver the software you need on budget."
+        ],
+        "bio": [
+          "We will work according to your terms in US or Europe time zone,\nWe will be available for you in Skype, Teams or Zoom.\nWe ask to pay small part of the cost before the beginning of the work, and the rest after the delivery of the work."
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "user": {
+        "name": "FabrizioTraversa",
+        "metadata": [
+          "Bari, Puglia, Italy",
+          "Bari,",
+          "Puglia,",
+          "Italy",
+          "35,895\n/yr",
+          "35,895",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1649682900/pimg/FreelancerFiles/4/195/4195315/wdchwntn8mvptpauotwg.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1649690522/pimg/FreelancerFiles/4/195/4195315/pknzbvebdnczs3oillvq.jpg",
+          "title": "SEO specialist",
+          "description": [
+            "$10/hr   \u00b7   Starting at $500",
+            "My diverse technical background has given me in-depth knowledge of optimizing websites and keeping up with the latest search engine best practices. SEO can be done incrementally and iteratively, allow\u2026"
+          ],
+          "skills": [
+            "Other",
+            "Content Writing",
+            "Link Building",
+            "Search Engine Marketing",
+            "Search Engine Optimization (SEO)",
+            "Web Development"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Apr, 2022",
+            "Earnings in Past 12 Months: $35,895",
+            "All Time Earnings: $35,895",
+            "Employers: 1",
+            "Invoices Paid: 14",
+            "Largest Employer: $35,895"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1649682900/pimg/FreelancerFiles/4/195/4195315/wdchwntn8mvptpauotwg.jpg"
+        ],
+        "abstrac": [
+          "FabrizioTraversa",
+          "Analytics, Copywriting, Digital Marketing, Direct Digital Marketing, Keyword Advertising, Keyword Research, Landing Page, DesignMarketing Off-Page"
+        ],
+        "bio": [
+          "I am an SEO and copyeditor with a background working with artists and art companies. I am a visual writer who loves to tell imaginative stories, be it in one sentence taglines or Facebook campaigns. I offer writing, content creation and strategy, and email marketing with a quick turnaround. I am also an expert at creating, updating, and maintaining websites built on WordPress. Practical experience in SEO and Internet marketing\nLanguages: English",
+          "$15 dollars per hour"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "user": {
+        "name": "infomist",
+        "metadata": [
+          "Rawalpindi, Punjab, Pakistan",
+          "Rawalpindi,",
+          "Punjab,",
+          "Pakistan",
+          "35,800\n/yr",
+          "35,800",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/0/124/124843/INFOMIST-LOGO_636046385949745425_guruImgLarge_968c2598-b290-4633-8ab6-d3ce09cd7a1d.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/0/124/124843/web_aad6d211-1e09-4df3-8e47-cbbbde1dc275.jpg",
+          "title": "Web Development",
+          "description": [
+            "$15/hr   \u00b7   Starting at $25",
+            "Professional Website Design and Development Services: Infomist has been providing quality web design and development services since 2003. Our extensive expertise and IT outsourcing experience and abso\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Adobe After Effects",
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Adobe Premiere Pro",
+            "Animation"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Web Design",
+          "description": [
+            "$12/hr   \u00b7   Starting at $25",
+            "A good web design is the first impression of your business, Infomist provides user focussed custom website design services. Our website designs are aesthetically pleasing and elevate your business to"
+          ],
+          "skills": [
+            "Programming & Development",
+            "3D",
+            "Adobe After Effects",
+            "Adobe Framemaker",
+            "Adobe Freehand",
+            "Adobe Illustrator"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/0/124/124843/web_aad6d211-1e09-4df3-8e47-cbbbde1dc275.jpg"
+        },
+        {
+          "title": "Email Design",
+          "description": [
+            "$12/hr   \u00b7   Starting at $25",
+            "Email is an efficient way to reach out to your users and acquiring new clients for your business. An email needs to have a nice balance between text and visuals. We create a clean design and eye-catc\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "3D",
+            "Adobe After Effects",
+            "Adobe Framemaker",
+            "Adobe Freehand",
+            "Adobe Illustrator"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/0/124/124843/email_3fdb071b-8b09-4f1f-85d5-3763030f13cd.jpg"
+        },
+        {
+          "title": "Banner Ads & Icons",
+          "description": [
+            "$15/hr   \u00b7   Starting at $25",
+            "Web banner ads are great tools to spread a message to a large audience. Quality Ads help to monetize your website/app. \n We can design amazing ads to boost your online traffic.\n We can Custom design"
+          ],
+          "skills": [
+            "Design & Art",
+            "Concepts & Direction",
+            "Ad Design",
+            "Banner Ads",
+            "Branding",
+            "Design",
+            "Icon Design"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/0/124/124843/banner_114ed6c7-ddd3-4d21-865f-68f2163286aa.jpg"
+        },
+        {
+          "title": "Logos & Identity Packages",
+          "description": [
+            "$10/hr   \u00b7   Starting at $25",
+            "We are a graphic design company with good name in the industry for our unique and modern graphic designs. Our graphic design team highly specializes in creating, successful building the perfect brand"
+          ],
+          "skills": [
+            "Design & Art",
+            "3D",
+            "Acrobat",
+            "Adobe Acrobat",
+            "Adobe Illustrator",
+            "Adobe Photoshop"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/0/124/124843/banner_114ed6c7-ddd3-4d21-865f-68f2163286aa.jpg"
+        },
+        {
+          "title": "Brochures",
+          "description": [
+            "$8/hr   \u00b7   Starting at $25",
+            "We are a graphic design company with good name in the industry for our unique and modern graphic designs offering competitive print/web services to its clients all over the world. Our graphic design t\u2026"
+          ],
+          "skills": [
+            "Design & Art",
+            "3D",
+            "Acrobat",
+            "Adobe Acrobat",
+            "Adobe Illustrator",
+            "Adobe Photoshop"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/0/124/124843/banner_114ed6c7-ddd3-4d21-865f-68f2163286aa.jpg"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "Web Development",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/0/124/124843/web_aad6d211-1e09-4df3-8e47-cbbbde1dc275.jpg"
+        },
+        {
+          "title": "Wordpress Websites",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/0/124/124843/wordpress_1822dd4e-1c63-47d3-84f8-c39bc10f285a.jpg"
+        },
+        {
+          "title": "Ecommerce Websites",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/0/124/124843/ecomrece_80e75de8-80c5-4b7d-bad8-d68a41073c0c.jpg"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Oct, 2001",
+            "Earnings in Past 12 Months: $35,800",
+            "All Time Earnings: $1,392,725",
+            "Employers: 535",
+            "Invoices Paid: 2,819",
+            "Largest Employer: $290,879"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Dan_Allman \u00b7 Nov 29, 2021",
+                "I was exceptionally happy with the work Saima and her crew did. They came up with a great logo and was happy to continue to make improvemnents to the design as I made small tweeks. I would highly recommend them to do your log deisgn. Regards Dan",
+                "for Logo design for Financial Planning Firm"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "None \u00b7 Oct 21, 2021",
+                "Infomist does 5 Star work for my company time and time again!!! Thank You, again.",
+                "for Website Updates"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "None \u00b7 Sep 22, 2021",
+                "Infomist ALWAYS does 5 Star Work on our business websites! Thank you.",
+                "for Website Updates"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "None \u00b7 Jun 17, 2021",
+                "Infomist does 5 Star Work for me ALWAYS! Thank you again, Hisham.",
+                "for Website Updates"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "None \u00b7 Jun 16, 2021",
+                "Infomist ALWAYS does 5 Star work for me!!!!! Thank you.",
+                "for Website Updates"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/0/124/124843/INFOMIST-LOGO_636046385949745425_guruImgLarge_968c2598-b290-4633-8ab6-d3ce09cd7a1d.jpg"
+        ],
+        "abstrac": ["infomist", "We write technologies."],
+        "bio": [
+          "We are experts in creating HTML, Wordpress and eCommerce websites besides also offering application development (IOS, ANDROID) and graphic design services (logo designing, desktop publishing and stationary design).\n\nWe do web, mobile app development. With 15 years of experience of providing solutions to our clients all over the world, Infomist is in a commanding position as one of the industry leader in Pakistan for freelance jobs. We are looking for a strategic alliance with a NON Pakistani company (preferably in USA) so we can take our business to next level and create more job opportunities in Pakistan.\n\nGood customer service is key for us, and no project is completed until our client is 100% satisfied.\n\nWe believe \"Customer is KING\"",
+          "For the projects valued under or equal to 2000USD; \n\n25% advance on signing of contract \n75% on final delivery \n\nFor projects above 2500USD; \n\na) 20% as project advance, \nb) 30% on approval of design \nc) 25% on milestones completion, \nc) 25% (remaining) final payment on project completion and handing over site to clients possesion with QC and full testing"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "user": {
+        "name": "Ke Chankrisna",
+        "metadata": [
+          "Siem Reap, Siem Reap, Cambodia",
+          "Siem Reap,",
+          "Siem Reap,",
+          "Cambodia",
+          "35,767\n/yr",
+          "35,767",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1644254179/pimg/FreelancerFiles/3/220/3220721/hlqeytvr6990ergc7ufl.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1620231455/pimg/FreelancerFiles/3/220/3220721/rsaaau8eskhg85jrwajy.png",
+          "title": "Fitness website, APP development",
+          "description": [
+            "$40/hr   \u00b7   Starting at $3,000",
+            "Fitness website, platform development with Fitness API.\nFront-end: React, Angular, Vue, Svelte, React Native, Ionic\nBackend: Django, Python, Ruby on Rails, Node js(typescript), Rust, ASP.NET, PHP, Lar\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            ".NET",
+            "Angular",
+            "API",
+            "Apple Development",
+            "ASP.NET"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "React Native Mobile APP development",
+          "description": [
+            "$40/hr   \u00b7   Starting at $1K",
+            "I have been developing React Native apps for over 5 years and built several React Native apps with React Native CLI and Expo. I can help you to build a high-quality React native codebase based on the"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "Android Development",
+            "App Development",
+            "JavaScript",
+            "Mobile Development",
+            "Programming"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1637981931/pimg/FreelancerFiles/3/220/3220721/fmucwzgh6tyverjo5qzd.jpg"
+        },
+        {
+          "title": "Blockchain development",
+          "description": [
+            "$40/hr   \u00b7   Starting at $1K",
+            "Able to understand of cryptocurrency and/or blockchain technology.\nShares deep knowledge of decentralized technologies.\nHas a strong understanding of algorithms, data structures, cryptography, and dat\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "API",
+            "Financial Services",
+            "Go Programming",
+            "Programming",
+            "Python"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1631154202/pimg/FreelancerFiles/3/220/3220721/dmxkrtgdbve0e3furybc.png"
+        },
+        {
+          "title": "Vue JS frontend development",
+          "description": [
+            "$30/hr   \u00b7   Starting at $600",
+            "Developing user-facing applications using Vue.js\nBuilding modular and reusable components and libraries\nOptimizing your application for performance\nImplementing automated testing integrated into devel\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Web Development & Design",
+            "Architecture",
+            "Bootstrap",
+            "Front End Development",
+            "JavaScript",
+            "Programming"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1615166393/pimg/FreelancerFiles/3/220/3220721/egf1b9woqpqocqzernn4.png"
+        },
+        {
+          "title": "PHP, Laravel, Codeigniter development",
+          "description": [
+            "$35/hr   \u00b7   Starting at $400",
+            "PHP and the development of its framework. - PHP (7.0, 7.1, 7.2, 7.3), upgrade PHP version. - Codeigniter, laravel development - Symfony, CakePHP, smarty PHP framework. MVC Architecture Support, Templa\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "API",
+            "CakePHP",
+            "JavaScript",
+            "Object Oriented Programming",
+            "PHP"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1611976060/pimg/FreelancerFiles/3/220/3220721/mldosrkvdvekmci8obt4.png"
+        },
+        {
+          "title": "Android App development.",
+          "description": [
+            "$50/hr   \u00b7   Starting at $300",
+            "7 years of professional experience in Android app development. Parking app, Bluetooth app, Uber app, Chatting app, Geolocation app, Image processing app, Social app, Fitness app, Browser app, Shopping\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Apps & Mobile",
+            "Android Development",
+            "App & Mobile Programming",
+            "App Development",
+            "Design",
+            "Mobile App Marketing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1608798961/pimg/FreelancerFiles/3/220/3220721/j7goka6whpfxafhzq8bm.jpg"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "React Native Fitness App",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1637981931/pimg/FreelancerFiles/3/220/3220721/fmucwzgh6tyverjo5qzd.jpg"
+        },
+        {
+          "title": "Fitness website-React",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/v1620231455/pimg/FreelancerFiles/3/220/3220721/rsaaau8eskhg85jrwajy.png"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Feb, 2020",
+            "Earnings in Past 12 Months: $35,767",
+            "All Time Earnings: $155,917",
+            "Employers: 14",
+            "Invoices Paid: 173",
+            "Largest Employer: $57,500"
+          ],
+          "feedback": [
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Re2n srl \u00b7 Aug 02, 2021",
+                "I'm really satisfied of Ke work. First of all, BEFORE to be hired he was very kind and give us some advice to define the origin of a problem. Then he understood very well the task we need to complete and with constant contact with us he performed the ios build we need. Ke is cleaver, gentle and p \u2026Read More",
+                "for Issue fixing with ionic+capacitor+auth0"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/v1625130467/pimg/EmployerFiles/1/166/1166251/bfpxhacbgo8t1tollenc.jpg",
+              "commnet": [
+                "Vertrical GmbH \u00b7 Jul 25, 2021",
+                "Very pleased to collaborate with.",
+                "for Serverless API Integration with AWS"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Mohammed 826 \u00b7 Jul 11, 2021",
+                "Highly recommended for all your ideas!",
+                "for Develop apps using React & Djano"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/static/ScreenIcon/def_emp_48.png",
+              "commnet": [
+                "Mohammed 826 \u00b7 Jul 11, 2021",
+                "Fantastic developer always helpful and supportive!",
+                "for Develop apps using React & Djano"
+              ]
+            },
+            {
+              "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_32,h_32,f_auto,dpr_2/v1625130467/pimg/EmployerFiles/1/166/1166251/bfpxhacbgo8t1tollenc.jpg",
+              "commnet": [
+                "Vertrical GmbH \u00b7 Jul 11, 2021",
+                "Initial infrastructure was proactively done with promising results and on time.",
+                "for Serverless API Integration with AWS"
+              ]
+            }
+          ]
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1644254179/pimg/FreelancerFiles/3/220/3220721/hlqeytvr6990ergc7ufl.png"
+        ],
+        "abstrac": ["Ke Chankrisna", "What do you want? I am ready for you."],
+        "bio": [
+          "My name is Ke.Chankrisna from Cambodia.\nTaking a developer job as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage.\n\nI believe that people should do things in which they are good at or in which their heart lays.\nI graduated from Build Bright University with Computer Science, so I have solid knowledge and experience in web and mobile development.\nI have 8 years of professional experience at an IT service company.\nDuring the time, I worked with several developer roles such as backend developer, frontend developer, Project manager, etc.\nWhat I can deliver for you?\n\n- Web and mobile front-end development\n  * Web front-end development using React JS(or React TypeScript, Next JS), Angular(from 6-11), Vue JS(or \n    Vue TypeScript, Nuxt JS), Svelte framework.\n    Fully responsive, pixel perfect, user-friendly design, Flexible API integration\n  * Mobile\n    Uber, fitness, Food delivery, Booking, Schedule, Location tracking, a dating app\n    (social sharing, deep-link, booking logic, payment gateway integration)\n   React Native, Ionic, Kotlin, Swift\n   * Hubspot CMS development\n- Back-end Development\n  * Rails, Django, Node js, Nest js, PHP, Laravel, ASP.NET.\n  * Serverless\n  * AWS Lambda, API gateway, Cloud formation, S3.\n  * Code Pipeline, Code Build, Code commit.\n  * AWS Cognito,  SES, SNS, SQS, RDS, Elastic Beanstalk, AWS Transcribe, AWS Glue, Kinesis, ECS, EC2, EKS, DynamoDB, DocumentDB\n  * Nginx, Apache2\n  * No SQL, SQL Databases.\n-Stripe payment gateway integration.\n- Infrastructure as Code (AWS CDK, Terraform, CDK for Terraform, CDK for Kubernetes, Cloudformation)\nI pride myself on providing the highest quality of work, and will never complete a project until the client is 100% satisfied.\nLet's work together to implement your great ideas!",
+          "Full Time Available\nFree Bug Fix (on a project I worked on)\nFree Consultation\nFree Deployment (on a project I worked on)\nI can work 40~60 hours per week.\nAll communication will be done on the guru, but skype or discord, slack is also preferred.\nAny TimeZone Available"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "user": {
+        "name": "Mark Vincent Oro",
+        "metadata": [
+          "Pontevedra, Western Visayas, Philippines",
+          "Pontevedra,",
+          "Western Visayas,",
+          "Philippines",
+          "35,496\n/yr",
+          "35,496",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1631595832/pimg/FreelancerFiles/3/945/3945804/rikrnscyvhqfxfuuaoxh.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1631598341/pimg/FreelancerFiles/3/945/3945804/utvp1nn3trli8qckmkbh.jpg",
+          "title": "Quantity Surveying / Civil Engineer",
+          "description": [
+            "$18/hr   \u00b7   Starting at $100",
+            "I am a Civil Engineer and has been in the construction industry for 4 years. I have served as a quantity surveyor where in I do the estimates of the Project (Quantity take offs, detailed estimates, et\u2026"
+          ],
+          "skills": [
+            "Engineering & Architecture",
+            "Architecture",
+            "Architects",
+            "Architectural Modeling",
+            "Budgeting",
+            "Civil",
+            "Construction"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Sep, 2021",
+            "Earnings in Past 12 Months: $35,496",
+            "All Time Earnings: $46,903",
+            "Employers: 1",
+            "Invoices Paid: 74",
+            "Largest Employer: $46,903"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/v1631595832/pimg/FreelancerFiles/3/945/3945804/rikrnscyvhqfxfuuaoxh.jpg"
+        ],
+        "abstrac": ["Mark Vincent Oro"],
+        "bio": []
+      }
+    },
+    {
+      "id": 20,
+      "user": {
+        "name": "Alain Roy77",
+        "metadata": [
+          "Candiac, Quebec, Canada",
+          "Candiac,",
+          "Quebec,",
+          "Canada",
+          "35,340\n/yr",
+          "35,340",
+          "/yr",
+          "\u00b7",
+          "100%"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/3/380/3380449/Alain%20Roy_637280849520077891_guruImgLargecc3da361-5ac0-4416-8d13-896fed7f3701.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/3/380/3380449/Screenshot_1523be2289-8c9b-4d56-b713-2afac4d68825.png",
+          "title": "PHP & Javascript developer",
+          "description": [
+            "$40/hr   \u00b7   Starting at $250",
+            "I am a senior PHP & Javascript developer who has more than 10 years of experience in those fields. I worked for a middle scale and large scale companies as a lead developer and had been using PHP as a\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Back End Development",
+            "CSS",
+            "ECMAScript",
+            "Front End Development",
+            "HTML"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Web Scraping, Big Data Analysis",
+          "description": [
+            "$40/hr   \u00b7   Starting at $300",
+            "I am well experienced in Web Scraping, Big Data Analysis, and Machine learning jobs. I would be happy to bring my experience to the table for any projects you have. Python: - Django - Django REST Fram\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "QA & Testing",
+            "Analytics",
+            "Big Data",
+            "Data Analysis",
+            "Data Management",
+            "Django"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/3/380/3380449/SCRAPING5554dfe2-d5c3-4382-88b8-7d813bb49d91.png"
+        },
+        {
+          "title": "Full Stack Programming",
+          "description": [
+            "$40/hr   \u00b7   Starting at $50",
+            "I am an experienced Angular | React | Vue developer, looking for exciting projects and new opportunities. I have the strongest experiences with frontend and backend development\nI have enough experienc\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "AngularJS",
+            "CSS",
+            "Full Stack Development",
+            "HTML",
+            "JavaScript"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/3/380/3380449/Screenshot_5703583be-d435-4d97-8168-a0dabdd0e1af.png"
+        },
+        {
+          "title": "React/Redux, Node",
+          "description": [
+            "$40/hr   \u00b7   Starting at $200",
+            "I am a qualified web developer who has 5+ years of experience in Front end and Back end development. I am a Javascript developer with experience in React, Redux, Node.js and so on\nI create websites us\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "Programming & Software",
+            "Back End Development",
+            "Front End Development",
+            "JavaScript",
+            "Node.js",
+            "React"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/3/380/3380449/111620fb347-0264-4bef-9330-13117c63e5fb.png"
+        },
+        {
+          "title": "Vue/Nuxt, Laravel",
+          "description": [
+            "$40/hr   \u00b7   Starting at $40",
+            "As a professional full-stack web developer who has rich experience in retail software and social networking website and app development using Vue/Nuxt and Laravel for over 7 years, I provide useful an\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "SAP Software",
+            "App Development",
+            "Customer Service",
+            "Laravel",
+            "Networking",
+            "Nuxt"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/3/380/3380449/Screenshot_5703583be-d435-4d97-8168-a0dabdd0e1af.png"
+        },
+        {
+          "title": "Huge Python/Django, Blockchain",
+          "description": [
+            "$40/hr   \u00b7   Starting at $500",
+            "I am an enthusiastic, challenge-driven web developer specializing in Python/Django and Blockchain. I provide development, maintenance, management, consultant services of web projects associated Python\u2026"
+          ],
+          "skills": [
+            "Programming & Development",
+            "QA & Testing",
+            "Blockchain",
+            "Building Engineering",
+            "Consultant",
+            "Django",
+            "Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/pimg/3/380/3380449/Statistics6c98e753-9b1a-449b-b5a3-13b1c5741174.png"
+        }
+      ],
+      "porfolio": [
+        {
+          "title": "Design Agent Website",
+          "image": "https://res.cloudinary.com/gurucom/image/upload/pimg/3/380/3380449/Screenshot_1523be2289-8c9b-4d56-b713-2afac4d68825.png"
+        }
+      ],
+      "performance": [
+        {
+          "stats": [
+            "Member since: Jun, 2020",
+            "Earnings in Past 12 Months: $35,340",
+            "All Time Earnings: $100,515",
+            "Employers: 2",
+            "Invoices Paid: 116",
+            "Largest Employer: $97,515"
+          ],
+          "feedback": []
+        }
+      ],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/3/380/3380449/Alain%20Roy_637280849520077891_guruImgLargecc3da361-5ac0-4416-8d13-896fed7f3701.jpg"
+        ],
+        "abstrac": [
+          "Alain Roy77",
+          "React | Vue | Angular | Node | Full-Stack Developer"
+        ],
+        "bio": [
+          "I am an experienced Angular | React | Vue | Node | Python developer, looking for exciting projects and new opportunities.\nExpert Web Front-End Developer ready to take on your project.\nYou deserve a website that is built with security, responsiveness, functionality, and efficiency in mind.\nOver the last 10+ years, I have worked in all kinds of projects and I am able to build a web application from scratch very fast and with great efficiency or continue working on existing code with ease.\n\nSKILL\no Back-end (NodeJS/Python & Django/Core PHP/Laravel/Symfony)\no Front-end(ReactJS/Redux, VueJS/Vuex/NuxtJS, AngularJS, Angular/Ngrx)\no DB (MySQL, Oracle, MongoDB, Firebase)\no HTML5 / XHTML / CSS3 / Javascript/Bootstrap\no Chrome extension development.\no UnitTesting (Mocha, Chai, Jest, Puppeteer-Jest, Phantom)\no Responsible communication for each day(24/7 online).\no  2 months Free bug fixing and maintenance\n\nI look forward to taking on your project and building you a site you are proud of",
+          "I can work at most 40 hours per week.\nMy hourly rate is $40~$60\nI can work fulltime and I can work in the weekend if client want.\nI hope to communicate via slack, skype, google hangout.\nThanks"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1428 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "user": {
+        "name": "Courtney Harris",
+        "metadata": [
+          "Brooklyn, New York, United States",
+          "Brooklyn,",
+          "New York,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have advanced Microsoft excel skills. I can quickly en term and retrieve data from spreadsheets, systems, and various HRIS platforms."
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Excel",
+            "HRIS",
+            "Microsoft",
+            "Spreadsheets"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "HR & Payroll",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "i have almost 10 years of HR and Payroll related functions. I am comfortable reviewing weekly payroll reports (for 401k, pension, and health & welfare). I have experience with all aspects of on boardi\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Health",
+            "Payroll",
+            "Reports"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["Courtney Harris"],
+        "bio": []
+      }
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "SMooreTx",
+        "metadata": [
+          "Cedar Creek, Texas, United States",
+          "Cedar Creek,",
+          "Texas,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is the ability to communicate, plan and prioritize\nto complete any project on time and efficiently. Allow\nme to help with any small task or complicated project."
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is the ability to communicate, plan and prioritize\nto complete any project on time and efficiently. Allow\nme to help with any small task or complicated project."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Event Planning",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is the ability to communicate, plan and prioritize\nto complete any project on time and efficiently. Allow\nme to help with any small task or complicated project."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is the ability to communicate, plan and prioritize\nto complete any project on time and efficiently. Allow\nme to help with any small task or complicated project."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Office Management",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is the ability to communicate, plan and prioritize\nto complete any project on time and efficiently. Allow\nme to help with any small task or complicated project."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["SMooreTx"],
+        "bio": []
+      }
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "Carlos De Souza",
+        "metadata": [
+          "Cooper City, Florida, United States",
+          "Cooper City,",
+          "Florida,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/pimg/1/484/1484419/028_635314830871463715_guruImgLarge_43e28433-5196-4a10-9495-1c4b70841e00.JPG",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvcover_sales_marketing.jpg",
+          "title": "Experienced Food/Beverage Industry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "20+ yrs of experienced in all aspects of the Food & Beverage Industry. Management, training, development, retailing, chef, food production, catering, customer service, financial P&L. Worked at every l\u2026"
+          ],
+          "skills": [
+            "Sales & Marketing",
+            "Computer Literacy",
+            "Cooking",
+            "Customer Service",
+            "Food & Beverage",
+            "Management"
+          ]
+        }
+      },
+      "services": [],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/pimg/1/484/1484419/028_635314830871463715_guruImgLarge_43e28433-5196-4a10-9495-1c4b70841e00.JPG"
+        ],
+        "abstrac": ["Carlos De Souza"],
+        "bio": []
+      }
+    },
+    {
+      "id": 4,
+      "user": {
+        "name": "Nabil Ilyas",
+        "metadata": [
+          "Colombo, Western, Sri Lanka",
+          "Colombo,",
+          "Western,",
+          "Sri Lanka"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/1411899/New_Images_635159609442919803.1d9bd2f0.fwfyu3jyprc_cropped_635159609594631885_guruImgLarge.1d9bd2ff.n0kozeip50u.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am Nabil, a motivated, resilient and compellingly persuasive individual who loves nothing more than helping customers resolve their problems or find things that they want. Having a professional appe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am Nabil, a motivated, resilient and compellingly persuasive individual who loves nothing more than helping customers resolve their problems or find things that they want. Having a professional appe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am Nabil, a motivated, resilient and compellingly persuasive individual who loves nothing more than helping customers resolve their problems or find things that they want. Having a professional appe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Research & Fact Checking",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am Nabil, a motivated, resilient and compellingly persuasive individual who loves nothing more than helping customers resolve their problems or find things that they want. Having a professional appe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Other - Admin Support",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am Nabil, a motivated, resilient and compellingly persuasive individual who loves nothing more than helping customers resolve their problems or find things that they want. Having a professional appe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://www.guru.com/gurufiles/pro/1411899/new_images_635159609442919803.1d9bd2f0.fwfyu3jyprc_cropped_635159609594631885_guruimglarge.1d9bd2ff.n0kozeip50u.jpg"
+        ],
+        "abstrac": ["Nabil Ilyas"],
+        "bio": []
+      }
+    },
+    {
+      "id": 5,
+      "user": {
+        "name": "DataworkProfessionals",
+        "metadata": [
+          "Dryden, New York, United States",
+          "Dryden,",
+          "New York,",
+          "United States"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/893374/logo_swirl_small1.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Extensive administrative experience and advanced computer\nskills in a wide array of PC and Mac applications coupled with a \u201cwhatever it\ntakes to get the job done\u201d attitude provides fast, a\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Data Management",
+            "Filemaker",
+            "Management"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Extensive administrative experience and advanced computer\nskills in a wide array of PC and Mac applications coupled with a \u201cwhatever it\ntakes to get the job done\u201d attitude provides fast, a\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Data Management",
+            "Filemaker",
+            "Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Extensive administrative experience and advanced computer\nskills in a wide array of PC and Mac applications coupled with a \u201cwhatever it\ntakes to get the job done\u201d attitude provides fast, a\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Data Management",
+            "Filemaker",
+            "Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Extensive administrative experience and advanced computer\nskills in a wide array of PC and Mac applications coupled with a \u201cwhatever it\ntakes to get the job done\u201d attitude provides fast, a\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Data Management",
+            "Filemaker",
+            "Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Legal Assistance",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Extensive administrative experience and advanced computer\nskills in a wide array of PC and Mac applications coupled with a \u201cwhatever it\ntakes to get the job done\u201d attitude provides fast, a\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Data Management",
+            "Filemaker",
+            "Management"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://www.guru.com/gurufiles/pro/893374/logo_swirl_small1.jpg"
+        ],
+        "abstrac": ["DataworkProfessionals"],
+        "bio": []
+      }
+    },
+    {
+      "id": 6,
+      "user": {
+        "name": "DALLAS PROFESSIONAL SERVICES",
+        "metadata": [
+          "ROBERTA, Georgia, United States",
+          "ROBERTA,",
+          "Georgia,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is my ability to create financials with information provided in a timely manner and prepare schedules and spreadsheets as needed."
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is my ability to create financials with information provided in a timely manner and prepare schedules and spreadsheets as needed."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Office Management",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is my ability to create financials with information provided in a timely manner and prepare schedules and spreadsheets as needed."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "HR & Payroll",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is my ability to create financials with information provided in a timely manner and prepare schedules and spreadsheets as needed."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Accounting",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strength is my ability to create financials with information provided in a timely manner and prepare schedules and spreadsheets as needed."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["DALLAS PROFESSIONAL SERVICES"],
+        "bio": []
+      }
+    },
+    {
+      "id": 7,
+      "user": {
+        "name": "Nattyuscga4408",
+        "metadata": [
+          "Sattahip, Chon Buri, Thailand",
+          "Sattahip,",
+          "Chon Buri,",
+          "Thailand"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have a good communication and coordination skill. I can work within a limitted time. I can speak both English and Thai."
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have a good communication and coordination skill. I can work within a limitted time. I can speak both English and Thai."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have a good communication and coordination skill. I can work within a limitted time. I can speak both English and Thai."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Other - Admin Support",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have a good communication and coordination skill. I can work within a limitted time. I can speak both English and Thai."
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["Nattyuscga4408"],
+        "bio": []
+      }
+    },
+    {
+      "id": 8,
+      "user": {
+        "name": "hirosh G",
+        "metadata": [
+          "colombo, Western, Sri Lanka",
+          "colombo,",
+          "Western,",
+          "Sri Lanka"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/1399945/data1_635144716045730567.1d851934.wguhdtsyh4q_resized.1d851934.4iq5q32wtc2_cropped_635144716636588654_guruImgLarge.1d85196f.khrbdz3bi1j.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am an self employed and looking to get as many as data entry project to complete from various standard clients and I can assure to all my clients that if you are working with me then you will not re\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Email Services",
+            "Excel",
+            "Ms",
+            "PDF Conversion",
+            "PDF Design"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Other - Admin Support",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am an self employed and looking to get as many as data entry project to complete from various standard clients and I can assure to all my clients that if you are working with me then you will not re\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Email Services",
+            "Excel",
+            "Ms",
+            "PDF Conversion",
+            "PDF Design"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://www.guru.com/gurufiles/pro/1399945/data1_635144716045730567.1d851934.wguhdtsyh4q_resized.1d851934.4iq5q32wtc2_cropped_635144716636588654_guruimglarge.1d85196f.khrbdz3bi1j.jpg"
+        ],
+        "abstrac": ["hirosh G"],
+        "bio": []
+      }
+    },
+    {
+      "id": 9,
+      "user": {
+        "name": "JGililland19",
+        "metadata": [
+          "Gilbert, Arizona, United States",
+          "Gilbert,",
+          "Arizona,",
+          "United States"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/1221361/IMG_0629_2.1b19eb37.x12oxozya1u.1b19eb37.dzdxbxl3vly.1b19eb3b.tomglldax1q.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Being detail oriented and efficient have been the most important traits I have gained in my years in the medical field. I am extremely organized and reliable in everything that I do. I have a quie"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry",
+            "Medical"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Being detail oriented and efficient have been the most important traits I have gained in my years in the medical field. I am extremely organized and reliable in everything that I do. I have a quie"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry",
+            "Medical"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Being detail oriented and efficient have been the most important traits I have gained in my years in the medical field. I am extremely organized and reliable in everything that I do. I have a quie"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry",
+            "Medical"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Medical Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Being detail oriented and efficient have been the most important traits I have gained in my years in the medical field. I am extremely organized and reliable in everything that I do. I have a quie"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry",
+            "Medical"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Medical Secretarial Support",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Being detail oriented and efficient have been the most important traits I have gained in my years in the medical field. I am extremely organized and reliable in everything that I do. I have a quie"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry",
+            "Medical"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://www.guru.com/gurufiles/pro/1221361/img_0629_2.1b19eb37.x12oxozya1u.1b19eb37.dzdxbxl3vly.1b19eb3b.tomglldax1q.jpg"
+        ],
+        "abstrac": ["JGililland19"],
+        "bio": []
+      }
+    },
+    {
+      "id": 10,
+      "user": {
+        "name": "padmameera",
+        "metadata": [
+          "Trivandrum, Kerala, India",
+          "Trivandrum,",
+          "Kerala,",
+          "India"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have more than 10 years experience in working with an international organisation. My competencies range from excellent writing and computing skills to provide technical assistance for projects. I"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Excel",
+            "Ms",
+            "Ms Excel",
+            "Ms Powerpoint",
+            "Powerpoint"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have more than 10 years experience in working with an international organisation. My competencies range from excellent writing and computing skills to provide technical assistance for projects. I"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Excel",
+            "Ms",
+            "Ms Excel",
+            "Ms Powerpoint",
+            "Powerpoint"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Event Planning",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have more than 10 years experience in working with an international organisation. My competencies range from excellent writing and computing skills to provide technical assistance for projects. I"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Excel",
+            "Ms",
+            "Ms Excel",
+            "Ms Powerpoint",
+            "Powerpoint"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have more than 10 years experience in working with an international organisation. My competencies range from excellent writing and computing skills to provide technical assistance for projects. I"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Excel",
+            "Ms",
+            "Ms Excel",
+            "Ms Powerpoint",
+            "Powerpoint"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Office Management",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have more than 10 years experience in working with an international organisation. My competencies range from excellent writing and computing skills to provide technical assistance for projects. I"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Excel",
+            "Ms",
+            "Ms Excel",
+            "Ms Powerpoint",
+            "Powerpoint"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["padmameera"],
+        "bio": []
+      }
+    },
+    {
+      "id": 11,
+      "user": {
+        "name": "GuanitaK",
+        "metadata": [
+          "louis trichardt, Limpopo, South Africa",
+          "louis trichardt,",
+          "Limpopo,",
+          "South Africa"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Research & Fact Checking",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Other - Admin Support",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["GuanitaK"],
+        "bio": []
+      }
+    },
+    {
+      "id": 12,
+      "user": {
+        "name": "Antoinette2008",
+        "metadata": [
+          "Centurion, Gauteng, South Africa",
+          "Centurion,",
+          "Gauteng,",
+          "South Africa"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have 30 years experience in bookkeeping and office admin. Advanced knowledge of Pastel, Word, Excel, data capturing, report writing.Im retrenched, single, and have to earn a viable income. A selfmot\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have 30 years experience in bookkeeping and office admin. Advanced knowledge of Pastel, Word, Excel, data capturing, report writing.Im retrenched, single, and have to earn a viable income. A selfmot\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Office Management",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have 30 years experience in bookkeeping and office admin. Advanced knowledge of Pastel, Word, Excel, data capturing, report writing.Im retrenched, single, and have to earn a viable income. A selfmot\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "HR & Payroll",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have 30 years experience in bookkeeping and office admin. Advanced knowledge of Pastel, Word, Excel, data capturing, report writing.Im retrenched, single, and have to earn a viable income. A selfmot\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Accounting",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have 30 years experience in bookkeeping and office admin. Advanced knowledge of Pastel, Word, Excel, data capturing, report writing.Im retrenched, single, and have to earn a viable income. A selfmot\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["Antoinette2008"],
+        "bio": []
+      }
+    },
+    {
+      "id": 13,
+      "user": {
+        "name": "kmlandis29",
+        "metadata": [
+          "York, Pennsylvania, United States",
+          "York,",
+          "Pennsylvania,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Event Planning",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": ["$5/hr   \u00b7   Starting at $25", ""],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["kmlandis29"],
+        "bio": []
+      }
+    },
+    {
+      "id": 14,
+      "user": {
+        "name": "jfors",
+        "metadata": [
+          "Mountain View, Arkansas, United States",
+          "Mountain View,",
+          "Arkansas,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have several years experience as an office manager and admistrative assistant. I am very detail oriented and spend the time it takes to perfect whatever job I may be working on. I am experienced i\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have several years experience as an office manager and admistrative assistant. I am very detail oriented and spend the time it takes to perfect whatever job I may be working on. I am experienced i\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have several years experience as an office manager and admistrative assistant. I am very detail oriented and spend the time it takes to perfect whatever job I may be working on. I am experienced i\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Office Management",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have several years experience as an office manager and admistrative assistant. I am very detail oriented and spend the time it takes to perfect whatever job I may be working on. I am experienced i\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Legal Assistance",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I have several years experience as an office manager and admistrative assistant. I am very detail oriented and spend the time it takes to perfect whatever job I may be working on. I am experienced i\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Data Entry"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["jfors"],
+        "bio": []
+      }
+    },
+    {
+      "id": 15,
+      "user": {
+        "name": "EBONI MCLEAN",
+        "metadata": [
+          "HAZELWOOD, Missouri, United States",
+          "HAZELWOOD,",
+          "Missouri,",
+          "United States"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/1353841/eboni3_635039247145559295.1ce42a6a.ps3fgvfaz1f_resized.1ce42a6a.22rar0p0mu3_cropped_635039247301919295_guruImgLarge.1ce42a7a.hzm3llu3el0.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$10/hr   \u00b7   Starting at $25",
+            "My acquired training and skills mirror the necessary qualifications you have outlined for the position. I have experience in this area of work and knowledge of business office procedures. along with s\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Ms",
+            "Ms Outlook",
+            "Outlook",
+            "Typing"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My acquired training and skills mirror the necessary qualifications you have outlined for the position. I have experience in this area of work and knowledge of business office procedures. along with s\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Ms",
+            "Ms Outlook",
+            "Outlook",
+            "Typing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My acquired training and skills mirror the necessary qualifications you have outlined for the position. I have experience in this area of work and knowledge of business office procedures. along with s\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Ms",
+            "Ms Outlook",
+            "Outlook",
+            "Typing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Research & Fact Checking",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My acquired training and skills mirror the necessary qualifications you have outlined for the position. I have experience in this area of work and knowledge of business office procedures. along with s\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Ms",
+            "Ms Outlook",
+            "Outlook",
+            "Typing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Other - Admin Support",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My acquired training and skills mirror the necessary qualifications you have outlined for the position. I have experience in this area of work and knowledge of business office procedures. along with s\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Customer Service",
+            "Ms",
+            "Ms Outlook",
+            "Outlook",
+            "Typing"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://www.guru.com/gurufiles/pro/1353841/eboni3_635039247145559295.1ce42a6a.ps3fgvfaz1f_resized.1ce42a6a.22rar0p0mu3_cropped_635039247301919295_guruimglarge.1ce42a7a.hzm3llu3el0.jpg"
+        ],
+        "abstrac": ["EBONI MCLEAN"],
+        "bio": []
+      }
+    },
+    {
+      "id": 16,
+      "user": {
+        "name": "emmansim",
+        "metadata": [
+          "Nairobi, Nairobi Area, Kenya",
+          "Nairobi,",
+          "Nairobi Area,",
+          "Kenya"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "i am a telecommunications and information engineering student with high intellectual capability. I have a good command of the english language and find it easy to work wit any software.I am hardworkin\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Access",
+            "Engineering",
+            "English Language",
+            "Excel",
+            "Microsoft"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "i am a telecommunications and information engineering student with high intellectual capability. I have a good command of the english language and find it easy to work wit any software.I am hardworkin\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Access",
+            "Engineering",
+            "English Language",
+            "Excel",
+            "Microsoft"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "i am a telecommunications and information engineering student with high intellectual capability. I have a good command of the english language and find it easy to work wit any software.I am hardworkin\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Access",
+            "Engineering",
+            "English Language",
+            "Excel",
+            "Microsoft"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Office Management",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "i am a telecommunications and information engineering student with high intellectual capability. I have a good command of the english language and find it easy to work wit any software.I am hardworkin\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Access",
+            "Engineering",
+            "English Language",
+            "Excel",
+            "Microsoft"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Bulk Mailings & Lists",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "i am a telecommunications and information engineering student with high intellectual capability. I have a good command of the english language and find it easy to work wit any software.I am hardworkin\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Access",
+            "Engineering",
+            "English Language",
+            "Excel",
+            "Microsoft"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["emmansim"],
+        "bio": []
+      }
+    },
+    {
+      "id": 17,
+      "user": {
+        "name": "AMPugliese",
+        "metadata": [
+          "Bennington, Vermont, United States",
+          "Bennington,",
+          "Vermont,",
+          "United States"
+        ],
+        "avatar": "https://www.guru.com/guruFiles/pro/877670/FALL31.jpg",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am a very motivated hard working individual. I have been working in this field for 6+ years and truly enjoy and take pride in my work. My mission is to complete the project in a timely fashion with"
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Medical Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "I am a very motivated hard working individual. I have been working in this field for 6+ years and truly enjoy and take pride in my work. My mission is to complete the project in a timely fashion with"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": ["https://www.guru.com/gurufiles/pro/877670/fall31.jpg"],
+        "abstrac": ["AMPugliese"],
+        "bio": []
+      }
+    },
+    {
+      "id": 18,
+      "user": {
+        "name": "SahWahWam",
+        "metadata": [
+          "Fouke, Arkansas, United States",
+          "Fouke,",
+          "Arkansas,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "As a Career Step Honors Graduate with 12 months of work experience, I believe I will be an asset to your company. I believe accuracy, confidentiality, determination, and reliability are important aspe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Medical Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "As a Career Step Honors Graduate with 12 months of work experience, I believe I will be an asset to your company. I believe accuracy, confidentiality, determination, and reliability are important aspe\u2026"
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": []
+    },
+    {
+      "id": 19,
+      "user": {
+        "name": "christie0302",
+        "metadata": [
+          "Fairfax, Virginia, United States",
+          "Fairfax,",
+          "Virginia,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strengths are organization and detail.  Proficient in proof-reading and editing.  Possess strong word processing skills. "
+          ],
+          "skills": ["Administrative & Secretarial"]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strengths are organization and detail.  Proficient in proof-reading and editing.  Possess strong word processing skills. "
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Transcription",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strengths are organization and detail.  Proficient in proof-reading and editing.  Possess strong word processing skills. "
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Event Planning",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strengths are organization and detail.  Proficient in proof-reading and editing.  Possess strong word processing skills. "
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "My strengths are organization and detail.  Proficient in proof-reading and editing.  Possess strong word processing skills. "
+          ],
+          "skills": ["Administrative & Secretarial"],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["christie0302"],
+        "bio": []
+      }
+    },
+    {
+      "id": 20,
+      "user": {
+        "name": "Admin Pro 08",
+        "metadata": [
+          "Altoona, Alabama, United States",
+          "Altoona,",
+          "Alabama,",
+          "United States"
+        ],
+        "avatar": "https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/static/default-user.png",
+        "description": {
+          "mainImg": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg",
+          "title": "Word Processing",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Goal oriented professional with a keen eye and attention to detail. I'm not afraid to get my hands dirty and love learning new things. I have over eight years experience in an office in varied indust\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Accounts Payable",
+            "Bookkeeping",
+            "Customer Service",
+            "Microsoft",
+            "Oracle"
+          ]
+        }
+      },
+      "services": [
+        {
+          "title": "Data Entry",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Goal oriented professional with a keen eye and attention to detail. I'm not afraid to get my hands dirty and love learning new things. I have over eight years experience in an office in varied indust\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Accounts Payable",
+            "Bookkeeping",
+            "Customer Service",
+            "Microsoft",
+            "Oracle"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Virtual Assistants",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Goal oriented professional with a keen eye and attention to detail. I'm not afraid to get my hands dirty and love learning new things. I have over eight years experience in an office in varied indust\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Accounts Payable",
+            "Bookkeeping",
+            "Customer Service",
+            "Microsoft",
+            "Oracle"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "HR & Payroll",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Goal oriented professional with a keen eye and attention to detail. I'm not afraid to get my hands dirty and love learning new things. I have over eight years experience in an office in varied indust\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Accounts Payable",
+            "Bookkeeping",
+            "Customer Service",
+            "Microsoft",
+            "Oracle"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        },
+        {
+          "title": "Accounting",
+          "description": [
+            "$5/hr   \u00b7   Starting at $25",
+            "Goal oriented professional with a keen eye and attention to detail. I'm not afraid to get my hands dirty and love learning new things. I have over eight years experience in an office in varied indust\u2026"
+          ],
+          "skills": [
+            "Administrative & Secretarial",
+            "Accounts Payable",
+            "Bookkeeping",
+            "Customer Service",
+            "Microsoft",
+            "Oracle"
+          ],
+          "image": "https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/static/DefaultServiceCoverImgs/defaultsvccover_admin.jpg"
+        }
+      ],
+      "porfolio": [],
+      "performance": [{ "stats": [], "feedback": [] }],
+      "about": {
+        "avatar": [
+          "https://res.cloudinary.com/gurucom/image/upload/w_48,h_48,f_auto,dpr_2/static/ScreenIcon/def_fl_128.png"
+        ],
+        "abstrac": ["Admin Pro 08"],
+        "bio": []
+      }
+    }
+  ]
+}
