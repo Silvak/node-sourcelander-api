@@ -16,10 +16,9 @@ const PASS = process.env.MAILGUN_PASS;
 const MAIL_FROM = process.env.MAIL_FROM;
 const MAIL_TO = process.env.MAIL_TO;
 
-const mg = mailgun({ apiKey: APY_KEY, domain: DOMAIN });
+//const mg = mailgun({ apiKey: APY_KEY, domain: DOMAIN });
 
 //__________________________________  APP _______________________________________
-
 const app = express();
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -58,6 +57,7 @@ app.get("/api/page/:numero", (req, res) => {
   }
 });
 
+/*
 // Ruta para procesar el envío del formulario
 app.post("/api/send-quote", (req, res) => {
   const { freelance, title, description, jobType, paymentQuotes } = req.body;
@@ -160,6 +160,7 @@ app.post("/api/send-quote", (req, res) => {
     res.json({ mensaje: "Mensaje enviado" });
   });
 });
+*/
 
 //start server in port 4000
 app.listen(port, () => {
